@@ -1,0 +1,647 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,metric_id,metric_name,year,val,upper,lower
+28,HALE (Healthy life expectancy),4618,North East England,3,Both,28,<1 year,5,Years,1990,64.892603,67.400795,62.092922
+28,HALE (Healthy life expectancy),4619,North West England,3,Both,28,<1 year,5,Years,1990,64.991733,67.560547,62.190338
+28,HALE (Healthy life expectancy),4620,Yorkshire and the Humber,3,Both,28,<1 year,5,Years,1990,65.612357,68.152542,62.777334
+28,HALE (Healthy life expectancy),4621,East Midlands,3,Both,28,<1 year,5,Years,1990,66.048751,68.620483,63.186367
+28,HALE (Healthy life expectancy),4622,West Midlands,3,Both,28,<1 year,5,Years,1990,65.533638,68.04493,62.709785
+28,HALE (Healthy life expectancy),4623,East of England,3,Both,28,<1 year,5,Years,1990,66.973659,69.570492,64.043274
+28,HALE (Healthy life expectancy),4624,Greater London,3,Both,28,<1 year,5,Years,1990,65.945355,68.556961,63.11722
+28,HALE (Healthy life expectancy),4625,South East England,3,Both,28,<1 year,5,Years,1990,67.021129,69.634289,64.083073
+28,HALE (Healthy life expectancy),4626,South West England,3,Both,28,<1 year,5,Years,1990,66.995357,69.621761,64.104233
+28,HALE (Healthy life expectancy),4636,Wales,3,Both,28,<1 year,5,Years,1990,65.943574,68.445366,63.193569
+28,HALE (Healthy life expectancy),4643,Aguascalientes,3,Both,28,<1 year,5,Years,1990,63.693529,66.049057,60.890133
+28,HALE (Healthy life expectancy),4644,Baja California,3,Both,28,<1 year,5,Years,1990,61.469005,63.738787,58.899406
+28,HALE (Healthy life expectancy),4645,Baja California Sur,3,Both,28,<1 year,5,Years,1990,64.268297,66.807182,61.51281
+28,HALE (Healthy life expectancy),4646,Campeche,3,Both,28,<1 year,5,Years,1990,63.581699,66.032917,60.872868
+28,HALE (Healthy life expectancy),4647,Coahuila,3,Both,28,<1 year,5,Years,1990,62.492931,64.79863,59.976833
+28,HALE (Healthy life expectancy),4648,Colima,3,Both,28,<1 year,5,Years,1990,62.589714,64.994297,59.913273
+28,HALE (Healthy life expectancy),4649,Chiapas,3,Both,28,<1 year,5,Years,1990,60.739303,63.096233,58.237808
+28,HALE (Healthy life expectancy),4650,Chihuahua,3,Both,28,<1 year,5,Years,1990,60.23943,62.457914,57.84724
+28,HALE (Healthy life expectancy),4651,Distrito Federal,3,Both,28,<1 year,5,Years,1990,64.111127,66.576515,61.474413
+28,HALE (Healthy life expectancy),4652,Durango,3,Both,28,<1 year,5,Years,1990,62.341004,64.794155,59.784262
+28,HALE (Healthy life expectancy),4653,Guanajuato,3,Both,28,<1 year,5,Years,1990,63.483548,65.863483,60.828226
+28,HALE (Healthy life expectancy),4654,Guerrero,3,Both,28,<1 year,5,Years,1990,63.042556,65.665066,60.279627
+28,HALE (Healthy life expectancy),4655,Hidalgo,3,Both,28,<1 year,5,Years,1990,62.558365,65.041454,59.881016
+28,HALE (Healthy life expectancy),4656,Jalisco,3,Both,28,<1 year,5,Years,1990,63.204836,65.591965,60.475176
+28,HALE (Healthy life expectancy),4657,México,3,Both,28,<1 year,5,Years,1990,63.240643,65.448978,60.728685
+28,HALE (Healthy life expectancy),4658,Michoacán de Ocampo,3,Both,28,<1 year,5,Years,1990,63.090343,65.586609,60.444271
+28,HALE (Healthy life expectancy),4659,Morelos,3,Both,28,<1 year,5,Years,1990,63.730937,66.309341,60.932453
+28,HALE (Healthy life expectancy),4660,Nayarit,3,Both,28,<1 year,5,Years,1990,63.015522,65.410198,60.405075
+28,HALE (Healthy life expectancy),4661,Nuevo León,3,Both,28,<1 year,5,Years,1990,64.903292,67.299309,62.252293
+28,HALE (Healthy life expectancy),4662,Oaxaca,3,Both,28,<1 year,5,Years,1990,60.081816,62.200348,57.595543
+28,HALE (Healthy life expectancy),4663,Puebla,3,Both,28,<1 year,5,Years,1990,60.765774,63.068605,58.256315
+28,HALE (Healthy life expectancy),4664,Querétaro,3,Both,28,<1 year,5,Years,1990,63.175259,65.54467,60.609415
+28,HALE (Healthy life expectancy),4665,Quintana Roo,3,Both,28,<1 year,5,Years,1990,65.247678,67.774158,62.495693
+28,HALE (Healthy life expectancy),4666,San Luis Potosí,3,Both,28,<1 year,5,Years,1990,63.137525,65.499943,60.503769
+28,HALE (Healthy life expectancy),4667,Sinaloa,3,Both,28,<1 year,5,Years,1990,65.098129,67.557022,62.226332
+28,HALE (Healthy life expectancy),4668,Sonora,3,Both,28,<1 year,5,Years,1990,62.461047,64.862545,59.943417
+28,HALE (Healthy life expectancy),4669,Tabasco,3,Both,28,<1 year,5,Years,1990,63.08559,65.619518,60.370447
+28,HALE (Healthy life expectancy),4670,Tamaulipas,3,Both,28,<1 year,5,Years,1990,63.293036,65.744301,60.656927
+28,HALE (Healthy life expectancy),4671,Tlaxcala,3,Both,28,<1 year,5,Years,1990,63.057415,65.394299,60.324074
+28,HALE (Healthy life expectancy),4672,Veracruz de Ignacio de la Llave,3,Both,28,<1 year,5,Years,1990,62.928908,65.40799,60.194437
+28,HALE (Healthy life expectancy),4673,Yucatán,3,Both,28,<1 year,5,Years,1990,64.233258,66.692867,61.706715
+28,HALE (Healthy life expectancy),4674,Zacatecas,3,Both,28,<1 year,5,Years,1990,64.201473,66.707195,61.526018
+28,HALE (Healthy life expectancy),4749,England,3,Both,28,<1 year,5,Years,1990,66.046839,68.586075,63.184929
+28,HALE (Healthy life expectancy),1,Global,3,Both,28,<1 year,5,Years,2016,63.12168,65.484856,60.424049
+28,HALE (Healthy life expectancy),4,"Southeast Asia, East Asia, and Oceania",3,Both,28,<1 year,5,Years,2016,66.439289,68.59124,63.950958
+28,HALE (Healthy life expectancy),5,East Asia,3,Both,28,<1 year,5,Years,2016,67.775749,69.9464,65.361763
+28,HALE (Healthy life expectancy),6,China,3,Both,28,<1 year,5,Years,2016,67.854885,70.009579,65.439686
+28,HALE (Healthy life expectancy),7,North Korea,3,Both,28,<1 year,5,Years,2016,63.011234,65.277477,60.617846
+28,HALE (Healthy life expectancy),8,Taiwan,3,Both,28,<1 year,5,Years,2016,70.144787,72.721695,67.384293
+28,HALE (Healthy life expectancy),9,Southeast Asia,3,Both,28,<1 year,5,Years,2016,63.866608,66.075047,61.319189
+28,HALE (Healthy life expectancy),10,Cambodia,3,Both,28,<1 year,5,Years,2016,60.11584,62.383873,57.553802
+28,HALE (Healthy life expectancy),11,Indonesia,3,Both,28,<1 year,5,Years,2016,62.945814,65.11338,60.337912
+28,HALE (Healthy life expectancy),12,Laos,3,Both,28,<1 year,5,Years,2016,59.081862,61.531109,56.364443
+28,HALE (Healthy life expectancy),13,Malaysia,3,Both,28,<1 year,5,Years,2016,66.422621,68.80397,63.809099
+28,HALE (Healthy life expectancy),14,Maldives,3,Both,28,<1 year,5,Years,2016,69.126681,72.123425,65.793507
+28,HALE (Healthy life expectancy),15,Myanmar,3,Both,28,<1 year,5,Years,2016,61.557605,63.992069,59.009634
+28,HALE (Healthy life expectancy),16,Philippines,3,Both,28,<1 year,5,Years,2016,61.643446,64.148121,59.119085
+28,HALE (Healthy life expectancy),17,Sri Lanka,3,Both,28,<1 year,5,Years,2016,67.750588,70.839668,64.576851
+28,HALE (Healthy life expectancy),18,Thailand,3,Both,28,<1 year,5,Years,2016,67.935151,70.602757,65.068981
+28,HALE (Healthy life expectancy),19,Timor-Leste,3,Both,28,<1 year,5,Years,2016,63.292858,66.607204,60.102058
+28,HALE (Healthy life expectancy),20,Vietnam,3,Both,28,<1 year,5,Years,2016,65.911841,68.325027,63.24704
+28,HALE (Healthy life expectancy),21,Oceania,3,Both,28,<1 year,5,Years,2016,54.342918,57.087818,51.282604
+28,HALE (Healthy life expectancy),22,Fiji,3,Both,28,<1 year,5,Years,2016,57.206111,60.344809,53.900064
+28,HALE (Healthy life expectancy),23,Kiribati,3,Both,28,<1 year,5,Years,2016,54.018885,56.944042,50.856934
+28,HALE (Healthy life expectancy),24,Marshall Islands,3,Both,28,<1 year,5,Years,2016,56.402105,59.271336,53.395042
+28,HALE (Healthy life expectancy),25,Federated States of Micronesia,3,Both,28,<1 year,5,Years,2016,57.512472,60.637987,54.220957
+28,HALE (Healthy life expectancy),26,Papua New Guinea,3,Both,28,<1 year,5,Years,2016,53.127767,56.150366,49.772602
+28,HALE (Healthy life expectancy),27,Samoa,3,Both,28,<1 year,5,Years,2016,62.868414,65.63699,59.917803
+28,HALE (Healthy life expectancy),28,Solomon Islands,3,Both,28,<1 year,5,Years,2016,55.304029,57.999239,52.434143
+28,HALE (Healthy life expectancy),29,Tonga,3,Both,28,<1 year,5,Years,2016,61.221189,63.999056,58.180115
+28,HALE (Healthy life expectancy),30,Vanuatu,3,Both,28,<1 year,5,Years,2016,55.993615,59.04777,52.78721
+28,HALE (Healthy life expectancy),31,"Central Europe, Eastern Europe, and Central Asia",3,Both,28,<1 year,5,Years,2016,63.431062,66.304871,60.41301
+28,HALE (Healthy life expectancy),32,Central Asia,3,Both,28,<1 year,5,Years,2016,62.58118,65.115112,59.942997
+28,HALE (Healthy life expectancy),33,Armenia,3,Both,28,<1 year,5,Years,2016,66.469754,68.962616,63.684353
+28,HALE (Healthy life expectancy),34,Azerbaijan,3,Both,28,<1 year,5,Years,2016,63.400735,66.038296,60.584826
+28,HALE (Healthy life expectancy),35,Georgia,3,Both,28,<1 year,5,Years,2016,65.012013,67.727921,61.939766
+28,HALE (Healthy life expectancy),36,Kazakhstan,3,Both,28,<1 year,5,Years,2016,62.666836,65.677143,59.518091
+28,HALE (Healthy life expectancy),37,Kyrgyzstan,3,Both,28,<1 year,5,Years,2016,62.454696,64.920444,59.723581
+28,HALE (Healthy life expectancy),38,Mongolia,3,Both,28,<1 year,5,Years,2016,59.908182,62.575207,57.093454
+28,HALE (Healthy life expectancy),39,Tajikistan,3,Both,28,<1 year,5,Years,2016,63.094522,65.709785,60.251095
+28,HALE (Healthy life expectancy),40,Turkmenistan,3,Both,28,<1 year,5,Years,2016,62.059889,64.445606,59.428635
+28,HALE (Healthy life expectancy),41,Uzbekistan,3,Both,28,<1 year,5,Years,2016,61.80366,64.369659,59.092302
+28,HALE (Healthy life expectancy),42,Central Europe,3,Both,28,<1 year,5,Years,2016,66.779774,69.346661,63.832453
+28,HALE (Healthy life expectancy),43,Albania,3,Both,28,<1 year,5,Years,2016,67.769138,70.550728,64.898293
+28,HALE (Healthy life expectancy),44,Bosnia and Herzegovina,3,Both,28,<1 year,5,Years,2016,67.297442,70.156898,64.075741
+28,HALE (Healthy life expectancy),45,Bulgaria,3,Both,28,<1 year,5,Years,2016,65.595992,68.433022,62.608608
+28,HALE (Healthy life expectancy),46,Croatia,3,Both,28,<1 year,5,Years,2016,67.416612,70.155998,64.465336
+28,HALE (Healthy life expectancy),47,Czech Republic,3,Both,28,<1 year,5,Years,2016,68.103116,70.935051,64.80835
+28,HALE (Healthy life expectancy),48,Hungary,3,Both,28,<1 year,5,Years,2016,65.823264,68.683144,62.900753
+28,HALE (Healthy life expectancy),49,Macedonia,3,Both,28,<1 year,5,Years,2016,65.586662,68.044376,62.792858
+28,HALE (Healthy life expectancy),50,Montenegro,3,Both,28,<1 year,5,Years,2016,67.126585,69.953728,64.104599
+28,HALE (Healthy life expectancy),51,Poland,3,Both,28,<1 year,5,Years,2016,67.595814,70.409103,64.592709
+28,HALE (Healthy life expectancy),52,Romania,3,Both,28,<1 year,5,Years,2016,65.544653,68.187576,62.678591
+28,HALE (Healthy life expectancy),53,Serbia,3,Both,28,<1 year,5,Years,2016,66.065229,68.61021,63.13736
+28,HALE (Healthy life expectancy),54,Slovakia,3,Both,28,<1 year,5,Years,2016,66.881226,69.843746,63.937183
+28,HALE (Healthy life expectancy),55,Slovenia,3,Both,28,<1 year,5,Years,2016,69.323761,72.546757,65.902157
+28,HALE (Healthy life expectancy),56,Eastern Europe,3,Both,28,<1 year,5,Years,2016,62.356722,65.684212,58.977455
+28,HALE (Healthy life expectancy),57,Belarus,3,Both,28,<1 year,5,Years,2016,64.090518,67.06451,61.044294
+28,HALE (Healthy life expectancy),58,Estonia,3,Both,28,<1 year,5,Years,2016,67.164914,70.051952,63.891218
+28,HALE (Healthy life expectancy),59,Latvia,3,Both,28,<1 year,5,Years,2016,65.211342,67.999477,62.200111
+28,HALE (Healthy life expectancy),60,Lithuania,3,Both,28,<1 year,5,Years,2016,65.200802,67.896385,62.162279
+28,HALE (Healthy life expectancy),61,Moldova,3,Both,28,<1 year,5,Years,2016,63.276108,65.983849,60.53223
+28,HALE (Healthy life expectancy),62,Russia,3,Both,28,<1 year,5,Years,2016,61.910338,65.699543,58.09309
+28,HALE (Healthy life expectancy),63,Ukraine,3,Both,28,<1 year,5,Years,2016,63.029955,66.325783,59.399479
+28,HALE (Healthy life expectancy),64,High-income,3,Both,28,<1 year,5,Years,2016,70.120861,72.878708,67.025368
+28,HALE (Healthy life expectancy),65,High-income Asia Pacific,3,Both,28,<1 year,5,Years,2016,72.638779,75.418747,69.552971
+28,HALE (Healthy life expectancy),66,Brunei,3,Both,28,<1 year,5,Years,2016,67.477694,70.189293,64.62188
+28,HALE (Healthy life expectancy),67,Japan,3,Both,28,<1 year,5,Years,2016,73.162155,75.888618,70.001247
+28,HALE (Healthy life expectancy),68,South Korea,3,Both,28,<1 year,5,Years,2016,70.762083,74.055862,67.363873
+28,HALE (Healthy life expectancy),69,Singapore,3,Both,28,<1 year,5,Years,2016,73.623923,76.70787,70.479309
+28,HALE (Healthy life expectancy),70,Australasia,3,Both,28,<1 year,5,Years,2016,71.414389,74.146111,68.275436
+28,HALE (Healthy life expectancy),71,Australia,3,Both,28,<1 year,5,Years,2016,71.534358,74.281166,68.383736
+28,HALE (Healthy life expectancy),72,New Zealand,3,Both,28,<1 year,5,Years,2016,70.795579,73.599159,67.748169
+28,HALE (Healthy life expectancy),73,Western Europe,3,Both,28,<1 year,5,Years,2016,71.007678,73.77177,67.90065
+28,HALE (Healthy life expectancy),74,Andorra,3,Both,28,<1 year,5,Years,2016,71.19659,74.274433,67.618595
+28,HALE (Healthy life expectancy),75,Austria,3,Both,28,<1 year,5,Years,2016,70.935203,73.678307,67.840851
+28,HALE (Healthy life expectancy),76,Belgium,3,Both,28,<1 year,5,Years,2016,70.112835,72.922386,66.952007
+28,HALE (Healthy life expectancy),77,Cyprus,3,Both,28,<1 year,5,Years,2016,70.195043,72.929218,67.246456
+28,HALE (Healthy life expectancy),78,Denmark,3,Both,28,<1 year,5,Years,2016,69.878781,72.7258,66.853657
+28,HALE (Healthy life expectancy),79,Finland,3,Both,28,<1 year,5,Years,2016,70.534737,73.467758,67.266518
+28,HALE (Healthy life expectancy),80,France,3,Both,28,<1 year,5,Years,2016,71.706973,74.491421,68.591652
+28,HALE (Healthy life expectancy),81,Germany,3,Both,28,<1 year,5,Years,2016,70.232814,73.113831,67.03627
+28,HALE (Healthy life expectancy),82,Greece,3,Both,28,<1 year,5,Years,2016,70.630088,73.296768,67.744484
+28,HALE (Healthy life expectancy),83,Iceland,3,Both,28,<1 year,5,Years,2016,71.479364,74.317715,68.27483
+28,HALE (Healthy life expectancy),84,Ireland,3,Both,28,<1 year,5,Years,2016,70.446469,73.226154,67.143135
+28,HALE (Healthy life expectancy),85,Israel,3,Both,28,<1 year,5,Years,2016,71.438877,74.476006,68.207939
+28,HALE (Healthy life expectancy),86,Italy,3,Both,28,<1 year,5,Years,2016,71.75303,74.537434,68.713612
+28,HALE (Healthy life expectancy),87,Luxembourg,3,Both,28,<1 year,5,Years,2016,70.960159,73.944027,67.765884
+28,HALE (Healthy life expectancy),88,Malta,3,Both,28,<1 year,5,Years,2016,70.927852,73.975761,67.761707
+28,HALE (Healthy life expectancy),89,Netherlands,3,Both,28,<1 year,5,Years,2016,70.704599,73.581245,67.505066
+28,HALE (Healthy life expectancy),90,Norway,3,Both,28,<1 year,5,Years,2016,71.492038,74.335987,68.54591
+28,HALE (Healthy life expectancy),91,Portugal,3,Both,28,<1 year,5,Years,2016,70.511677,73.274082,67.449245
+28,HALE (Healthy life expectancy),92,Spain,3,Both,28,<1 year,5,Years,2016,72.618353,75.319927,69.674541
+28,HALE (Healthy life expectancy),93,Sweden,3,Both,28,<1 year,5,Years,2016,70.884044,73.820354,67.620338
+28,HALE (Healthy life expectancy),94,Switzerland,3,Both,28,<1 year,5,Years,2016,71.932213,75.168308,68.388672
+28,HALE (Healthy life expectancy),95,United Kingdom,3,Both,28,<1 year,5,Years,2016,70.048513,72.837181,66.925335
+28,HALE (Healthy life expectancy),96,Southern Latin America,3,Both,28,<1 year,5,Years,2016,67.959764,70.554314,65.085323
+28,HALE (Healthy life expectancy),97,Argentina,3,Both,28,<1 year,5,Years,2016,67.223795,69.770721,64.386913
+28,HALE (Healthy life expectancy),98,Chile,3,Both,28,<1 year,5,Years,2016,69.899128,73.248436,66.345352
+28,HALE (Healthy life expectancy),99,Uruguay,3,Both,28,<1 year,5,Years,2016,67.934577,70.441982,65.233723
+28,HALE (Healthy life expectancy),100,High-income North America,3,Both,28,<1 year,5,Years,2016,68.048245,70.805206,64.880611
+28,HALE (Healthy life expectancy),101,Canada,3,Both,28,<1 year,5,Years,2016,71.199189,73.96077,68.143028
+28,HALE (Healthy life expectancy),102,United States,3,Both,28,<1 year,5,Years,2016,67.691772,70.467136,64.513634
+28,HALE (Healthy life expectancy),103,Latin America and Caribbean,3,Both,28,<1 year,5,Years,2016,66.355006,68.757931,63.47336
+28,HALE (Healthy life expectancy),104,Caribbean,3,Both,28,<1 year,5,Years,2016,63.973096,66.657143,61.114092
+28,HALE (Healthy life expectancy),105,Antigua and Barbuda,3,Both,28,<1 year,5,Years,2016,67.528645,70.288811,64.440495
+28,HALE (Healthy life expectancy),106,The Bahamas,3,Both,28,<1 year,5,Years,2016,64.878683,67.465263,62.012182
+28,HALE (Healthy life expectancy),107,Barbados,3,Both,28,<1 year,5,Years,2016,66.919317,69.632748,63.775372
+28,HALE (Healthy life expectancy),108,Belize,3,Both,28,<1 year,5,Years,2016,63.052881,65.841362,60.126623
+28,HALE (Healthy life expectancy),109,Cuba,3,Both,28,<1 year,5,Years,2016,69.187696,71.866726,66.315865
+28,HALE (Healthy life expectancy),110,Dominica,3,Both,28,<1 year,5,Years,2016,64.066423,66.705463,61.094662
+28,HALE (Healthy life expectancy),111,Dominican Republic,3,Both,28,<1 year,5,Years,2016,66.412778,69.267437,63.436462
+28,HALE (Healthy life expectancy),112,Grenada,3,Both,28,<1 year,5,Years,2016,62.686083,65.396507,59.743423
+28,HALE (Healthy life expectancy),113,Guyana,3,Both,28,<1 year,5,Years,2016,59.173237,61.69982,56.370171
+28,HALE (Healthy life expectancy),114,Haiti,3,Both,28,<1 year,5,Years,2016,55.896938,59.003506,52.785295
+28,HALE (Healthy life expectancy),115,Jamaica,3,Both,28,<1 year,5,Years,2016,65.341569,68.27116,62.111816
+28,HALE (Healthy life expectancy),116,Saint Lucia,3,Both,28,<1 year,5,Years,2016,66.37888,69.000732,63.170248
+28,HALE (Healthy life expectancy),117,Saint Vincent and the Grenadines,3,Both,28,<1 year,5,Years,2016,62.702376,65.277939,59.984083
+28,HALE (Healthy life expectancy),118,Suriname,3,Both,28,<1 year,5,Years,2016,62.244259,64.734821,59.441706
+28,HALE (Healthy life expectancy),119,Trinidad and Tobago,3,Both,28,<1 year,5,Years,2016,63.513632,66.13187,60.499619
+28,HALE (Healthy life expectancy),120,Andean Latin America,3,Both,28,<1 year,5,Years,2016,68.212054,70.891045,65.148937
+28,HALE (Healthy life expectancy),121,Bolivia,3,Both,28,<1 year,5,Years,2016,63.996429,66.908043,60.966244
+28,HALE (Healthy life expectancy),122,Ecuador,3,Both,28,<1 year,5,Years,2016,68.201199,70.738289,65.402657
+28,HALE (Healthy life expectancy),123,Peru,3,Both,28,<1 year,5,Years,2016,69.842054,72.864914,66.511929
+28,HALE (Healthy life expectancy),124,Central Latin America,3,Both,28,<1 year,5,Years,2016,67.294523,69.673592,64.517818
+28,HALE (Healthy life expectancy),125,Colombia,3,Both,28,<1 year,5,Years,2016,69.093092,71.595718,66.276489
+28,HALE (Healthy life expectancy),126,Costa Rica,3,Both,28,<1 year,5,Years,2016,71.162251,73.828728,68.191525
+28,HALE (Healthy life expectancy),127,El Salvador,3,Both,28,<1 year,5,Years,2016,66.478141,69.048992,63.525251
+28,HALE (Healthy life expectancy),128,Guatemala,3,Both,28,<1 year,5,Years,2016,63.863262,67.304203,60.516546
+28,HALE (Healthy life expectancy),129,Honduras,3,Both,28,<1 year,5,Years,2016,64.268561,67.386776,61.005854
+28,HALE (Healthy life expectancy),130,Mexico,3,Both,28,<1 year,5,Years,2016,67.06239,69.434658,64.250023
+28,HALE (Healthy life expectancy),131,Nicaragua,3,Both,28,<1 year,5,Years,2016,68.91763,71.697697,65.824673
+28,HALE (Healthy life expectancy),132,Panama,3,Both,28,<1 year,5,Years,2016,69.377612,72.216908,66.274418
+28,HALE (Healthy life expectancy),133,Venezuela,3,Both,28,<1 year,5,Years,2016,66.5611,69.313187,63.662848
+28,HALE (Healthy life expectancy),134,Tropical Latin America,3,Both,28,<1 year,5,Years,2016,65.463434,67.970242,62.506306
+28,HALE (Healthy life expectancy),135,Brazil,3,Both,28,<1 year,5,Years,2016,65.48042,67.993336,62.527039
+28,HALE (Healthy life expectancy),136,Paraguay,3,Both,28,<1 year,5,Years,2016,64.960333,67.69862,61.936125
+28,HALE (Healthy life expectancy),137,North Africa and Middle East,3,Both,28,<1 year,5,Years,2016,62.498645,65.21236,59.448736
+28,HALE (Healthy life expectancy),138,North Africa and Middle East,3,Both,28,<1 year,5,Years,2016,62.498645,65.21236,59.448736
+28,HALE (Healthy life expectancy),139,Algeria,3,Both,28,<1 year,5,Years,2016,66.072155,68.99535,62.795786
+28,HALE (Healthy life expectancy),140,Bahrain,3,Both,28,<1 year,5,Years,2016,65.359046,68.751591,61.84326
+28,HALE (Healthy life expectancy),141,Egypt,3,Both,28,<1 year,5,Years,2016,62.036422,64.850079,59.130877
+28,HALE (Healthy life expectancy),142,Iran,3,Both,28,<1 year,5,Years,2016,64.791148,67.91103,61.314922
+28,HALE (Healthy life expectancy),143,Iraq,3,Both,28,<1 year,5,Years,2016,57.430456,60.818304,54.059044
+28,HALE (Healthy life expectancy),144,Jordan,3,Both,28,<1 year,5,Years,2016,65.103196,68.355194,61.647408
+28,HALE (Healthy life expectancy),145,Kuwait,3,Both,28,<1 year,5,Years,2016,68.238244,71.917995,64.578194
+28,HALE (Healthy life expectancy),146,Lebanon,3,Both,28,<1 year,5,Years,2016,68.279943,71.453796,64.808521
+28,HALE (Healthy life expectancy),147,Libya,3,Both,28,<1 year,5,Years,2016,64.205407,67.191681,60.898661
+28,HALE (Healthy life expectancy),148,Morocco,3,Both,28,<1 year,5,Years,2016,63.969995,66.868176,60.666132
+28,HALE (Healthy life expectancy),149,Palestine,3,Both,28,<1 year,5,Years,2016,61.789089,64.383522,58.896935
+28,HALE (Healthy life expectancy),150,Oman,3,Both,28,<1 year,5,Years,2016,66.203883,69.097549,63.041409
+28,HALE (Healthy life expectancy),151,Qatar,3,Both,28,<1 year,5,Years,2016,68.151206,71.932999,64.142563
+28,HALE (Healthy life expectancy),152,Saudi Arabia,3,Both,28,<1 year,5,Years,2016,66.378014,69.215603,63.262276
+28,HALE (Healthy life expectancy),153,Syria,3,Both,28,<1 year,5,Years,2016,58.836545,64.456898,53.198618
+28,HALE (Healthy life expectancy),154,Tunisia,3,Both,28,<1 year,5,Years,2016,66.611211,69.769676,63.277233
+28,HALE (Healthy life expectancy),155,Turkey,3,Both,28,<1 year,5,Years,2016,67.599654,70.753117,64.087578
+28,HALE (Healthy life expectancy),156,United Arab Emirates,3,Both,28,<1 year,5,Years,2016,65.081593,68.190929,61.508181
+28,HALE (Healthy life expectancy),157,Yemen,3,Both,28,<1 year,5,Years,2016,55.99559,58.865152,52.696928
+28,HALE (Healthy life expectancy),158,South Asia,3,Both,28,<1 year,5,Years,2016,59.173709,61.578657,56.455687
+28,HALE (Healthy life expectancy),159,South Asia,3,Both,28,<1 year,5,Years,2016,59.173709,61.578657,56.455687
+28,HALE (Healthy life expectancy),160,Afghanistan,3,Both,28,<1 year,5,Years,2016,49.493187,52.074554,46.696573
+28,HALE (Healthy life expectancy),4940,Sweden except Stockholm,3,Both,28,<1 year,5,Years,1990,67.47266,70.138611,64.439278
+28,HALE (Healthy life expectancy),4944,Stockholm,3,Both,28,<1 year,5,Years,1990,67.579853,70.123623,64.82666
+28,HALE (Healthy life expectancy),35424,Hokkaid?,3,Both,28,<1 year,5,Years,1990,69.218368,71.634415,66.502098
+28,HALE (Healthy life expectancy),35425,Aomori,3,Both,28,<1 year,5,Years,1990,68.576828,70.981701,65.834473
+28,HALE (Healthy life expectancy),35426,Iwate,3,Both,28,<1 year,5,Years,1990,69.278683,71.706768,66.587666
+28,HALE (Healthy life expectancy),35427,Miyagi,3,Both,28,<1 year,5,Years,1990,69.640877,72.0924,66.885338
+28,HALE (Healthy life expectancy),35428,Akita,3,Both,28,<1 year,5,Years,1990,69.133411,71.553699,66.435356
+28,HALE (Healthy life expectancy),35429,Yamagata,3,Both,28,<1 year,5,Years,1990,69.898245,72.338818,67.120941
+28,HALE (Healthy life expectancy),35430,Fukushima,3,Both,28,<1 year,5,Years,1990,69.335398,71.738678,66.594852
+28,HALE (Healthy life expectancy),35431,Ibaraki,3,Both,28,<1 year,5,Years,1990,69.082369,71.517883,66.357227
+28,HALE (Healthy life expectancy),35432,Tochigi,3,Both,28,<1 year,5,Years,1990,68.913459,71.290562,66.205807
+28,HALE (Healthy life expectancy),35433,Gunma,3,Both,28,<1 year,5,Years,1990,69.406118,71.8358,66.624996
+28,HALE (Healthy life expectancy),35434,Saitama,3,Both,28,<1 year,5,Years,1990,69.495193,71.875019,66.78503
+28,HALE (Healthy life expectancy),35435,Chiba,3,Both,28,<1 year,5,Years,1990,69.7057,72.109592,66.968842
+28,HALE (Healthy life expectancy),35436,T?ky?,3,Both,28,<1 year,5,Years,1990,69.496934,71.915989,66.740173
+28,HALE (Healthy life expectancy),35437,Kanagawa,3,Both,28,<1 year,5,Years,1990,69.791499,72.200592,67.021797
+28,HALE (Healthy life expectancy),35438,Niigata,3,Both,28,<1 year,5,Years,1990,69.80597,72.333382,66.950348
+28,HALE (Healthy life expectancy),35439,Toyama,3,Both,28,<1 year,5,Years,1990,69.650256,72.098507,66.934399
+28,HALE (Healthy life expectancy),35440,Ishikawa,3,Both,28,<1 year,5,Years,1990,69.818193,72.302654,66.975639
+28,HALE (Healthy life expectancy),35441,Fukui,3,Both,28,<1 year,5,Years,1990,69.977548,72.492821,67.12883
+28,HALE (Healthy life expectancy),35442,Yamanashi,3,Both,28,<1 year,5,Years,1990,69.608129,72.080257,66.85569
+28,HALE (Healthy life expectancy),35443,Nagano,3,Both,28,<1 year,5,Years,1990,70.357111,72.846676,67.509609
+28,HALE (Healthy life expectancy),35444,Gifu,3,Both,28,<1 year,5,Years,1990,69.7033,72.144855,66.941151
+28,HALE (Healthy life expectancy),161,Bangladesh,3,Both,28,<1 year,5,Years,1990,50.027566,52.306507,47.601294
+28,HALE (Healthy life expectancy),162,Bhutan,3,Both,28,<1 year,5,Years,1990,51.335971,53.88751,48.690874
+28,HALE (Healthy life expectancy),163,India,3,Both,28,<1 year,5,Years,1990,50.77402,52.895506,48.391714
+28,HALE (Healthy life expectancy),164,Nepal,3,Both,28,<1 year,5,Years,1990,49.871436,51.98498,47.680765
+28,HALE (Healthy life expectancy),165,Pakistan,3,Both,28,<1 year,5,Years,1990,54.054169,56.346403,51.414921
+28,HALE (Healthy life expectancy),166,Sub-Saharan Africa,3,Both,28,<1 year,5,Years,1990,46.5902,48.559788,44.516113
+28,HALE (Healthy life expectancy),167,Central Sub-Saharan Africa,3,Both,28,<1 year,5,Years,1990,45.080432,47.232271,42.737276
+28,HALE (Healthy life expectancy),168,Angola,3,Both,28,<1 year,5,Years,1990,43.681279,46.735464,40.91444
+28,HALE (Healthy life expectancy),169,Central African Republic,3,Both,28,<1 year,5,Years,1990,41.41546,43.724482,38.810915
+28,HALE (Healthy life expectancy),170,Congo,3,Both,28,<1 year,5,Years,1990,46.816926,49.204004,44.186909
+28,HALE (Healthy life expectancy),171,Democratic Republic of the Congo,3,Both,28,<1 year,5,Years,1990,45.805953,48.235939,43.279716
+28,HALE (Healthy life expectancy),172,Equatorial Guinea,3,Both,28,<1 year,5,Years,1990,41.802794,44.706656,38.758923
+28,HALE (Healthy life expectancy),173,Gabon,3,Both,28,<1 year,5,Years,1990,51.516928,53.804979,49.097244
+28,HALE (Healthy life expectancy),174,Eastern Sub-Saharan Africa,3,Both,28,<1 year,5,Years,1990,44.829463,46.542503,42.876698
+28,HALE (Healthy life expectancy),175,Burundi,3,Both,28,<1 year,5,Years,1990,42.528239,44.642155,40.385357
+28,HALE (Healthy life expectancy),176,Comoros,3,Both,28,<1 year,5,Years,1990,51.168656,53.659946,48.646854
+28,HALE (Healthy life expectancy),177,Djibouti,3,Both,28,<1 year,5,Years,1990,53.730853,55.882568,51.454372
+28,HALE (Healthy life expectancy),178,Eritrea,3,Both,28,<1 year,5,Years,1990,46.011635,48.075817,43.934011
+28,HALE (Healthy life expectancy),179,Ethiopia,3,Both,28,<1 year,5,Years,1990,41.101949,42.727802,39.284994
+28,HALE (Healthy life expectancy),180,Kenya,3,Both,28,<1 year,5,Years,1990,54.094692,56.075687,51.837234
+28,HALE (Healthy life expectancy),181,Madagascar,3,Both,28,<1 year,5,Years,1990,48.63319,50.764181,46.421869
+28,HALE (Healthy life expectancy),182,Malawi,3,Both,28,<1 year,5,Years,1990,42.449974,45.237829,39.781574
+28,HALE (Healthy life expectancy),183,Mauritius,3,Both,28,<1 year,5,Years,1990,60.722221,62.882444,58.227867
+28,HALE (Healthy life expectancy),184,Mozambique,3,Both,28,<1 year,5,Years,1990,44.000914,45.94982,41.769615
+28,HALE (Healthy life expectancy),185,Rwanda,3,Both,28,<1 year,5,Years,1990,43.399561,45.481293,41.24688
+28,HALE (Healthy life expectancy),186,Seychelles,3,Both,28,<1 year,5,Years,1990,61.208584,63.188019,58.941154
+28,HALE (Healthy life expectancy),187,Somalia,3,Both,28,<1 year,5,Years,1990,44.526057,46.831476,42.119799
+28,HALE (Healthy life expectancy),189,Tanzania,3,Both,28,<1 year,5,Years,1990,47.877245,50.067204,45.597082
+28,HALE (Healthy life expectancy),190,Uganda,3,Both,28,<1 year,5,Years,1990,42.43858,44.928061,39.778889
+28,HALE (Healthy life expectancy),191,Zambia,3,Both,28,<1 year,5,Years,1990,45.79041,48.225492,43.383514
+28,HALE (Healthy life expectancy),192,Southern Sub-Saharan Africa,3,Both,28,<1 year,5,Years,1990,55.390787,57.64826,53.062252
+28,HALE (Healthy life expectancy),193,Botswana,3,Both,28,<1 year,5,Years,1990,56.281454,59.289856,53.337374
+28,HALE (Healthy life expectancy),194,Lesotho,3,Both,28,<1 year,5,Years,1990,52.685255,55.095116,50.172932
+28,HALE (Healthy life expectancy),195,Namibia,3,Both,28,<1 year,5,Years,1990,53.873267,56.054296,51.529009
+28,HALE (Healthy life expectancy),196,South Africa,3,Both,28,<1 year,5,Years,1990,55.756746,58.009342,53.299576
+28,HALE (Healthy life expectancy),197,Swaziland,3,Both,28,<1 year,5,Years,1990,54.535103,57.05739,51.988825
+28,HALE (Healthy life expectancy),198,Zimbabwe,3,Both,28,<1 year,5,Years,1990,54.066862,57.576107,50.982126
+28,HALE (Healthy life expectancy),199,Western Sub-Saharan Africa,3,Both,28,<1 year,5,Years,1990,46.920885,49.077991,44.627035
+28,HALE (Healthy life expectancy),200,Benin,3,Both,28,<1 year,5,Years,1990,47.49461,49.76852,44.861013
+28,HALE (Healthy life expectancy),201,Burkina Faso,3,Both,28,<1 year,5,Years,1990,43.14188,45.448324,40.734453
+28,HALE (Healthy life expectancy),202,Cameroon,3,Both,28,<1 year,5,Years,1990,50.303018,52.58392,47.734451
+28,HALE (Healthy life expectancy),203,Cape Verde,3,Both,28,<1 year,5,Years,1990,59.028874,61.656406,56.419313
+28,HALE (Healthy life expectancy),204,Chad,3,Both,28,<1 year,5,Years,1990,45.889608,48.027367,43.419834
+28,HALE (Healthy life expectancy),205,Cote d'Ivoire,3,Both,28,<1 year,5,Years,1990,47.094959,49.41243,44.637321
+28,HALE (Healthy life expectancy),206,The Gambia,3,Both,28,<1 year,5,Years,1990,53.20964,55.722546,50.407393
+28,HALE (Healthy life expectancy),207,Ghana,3,Both,28,<1 year,5,Years,1990,51.175832,53.557093,48.724421
+28,HALE (Healthy life expectancy),208,Guinea,3,Both,28,<1 year,5,Years,1990,44.848393,46.993065,42.583794
+28,HALE (Healthy life expectancy),209,Guinea-Bissau,3,Both,28,<1 year,5,Years,1990,42.801897,44.918478,40.682499
+28,HALE (Healthy life expectancy),210,Liberia,3,Both,28,<1 year,5,Years,1990,42.309251,44.503429,39.810617
+28,HALE (Healthy life expectancy),211,Mali,3,Both,28,<1 year,5,Years,1990,42.46737,44.611849,40.290325
+28,HALE (Healthy life expectancy),212,Mauritania,3,Both,28,<1 year,5,Years,1990,51.970734,54.205305,49.482782
+28,HALE (Healthy life expectancy),213,Niger,3,Both,28,<1 year,5,Years,1990,41.029023,42.946859,38.970308
+28,HALE (Healthy life expectancy),214,Nigeria,3,Both,28,<1 year,5,Years,1990,47.238946,49.672205,44.712803
+28,HALE (Healthy life expectancy),215,Sao Tome and Principe,3,Both,28,<1 year,5,Years,1990,55.090519,57.609247,52.644863
+28,HALE (Healthy life expectancy),216,Senegal,3,Both,28,<1 year,5,Years,1990,50.099086,52.29911,47.748888
+28,HALE (Healthy life expectancy),217,Sierra Leone,3,Both,28,<1 year,5,Years,1990,43.682663,45.658346,41.44702
+28,HALE (Healthy life expectancy),218,Togo,3,Both,28,<1 year,5,Years,1990,49.78105,52.010872,47.22381
+28,HALE (Healthy life expectancy),298,American Samoa,3,Both,28,<1 year,5,Years,1990,61.198191,63.800112,58.397923
+28,HALE (Healthy life expectancy),305,Bermuda,3,Both,28,<1 year,5,Years,1990,61.614735,63.891047,59.074799
+28,HALE (Healthy life expectancy),349,Greenland,3,Both,28,<1 year,5,Years,1990,54.006881,55.949404,51.725983
+28,HALE (Healthy life expectancy),351,Guam,3,Both,28,<1 year,5,Years,1990,64.267956,66.624317,61.61046
+28,HALE (Healthy life expectancy),376,Northern Mariana Islands,3,Both,28,<1 year,5,Years,1990,64.604925,67.615921,61.435228
+28,HALE (Healthy life expectancy),385,Puerto Rico,3,Both,28,<1 year,5,Years,1990,64.902864,67.283875,62.189014
+28,HALE (Healthy life expectancy),422,"Virgin Islands, U.S.",3,Both,28,<1 year,5,Years,1990,64.069836,66.500748,61.438082
+28,HALE (Healthy life expectancy),433,Northern Ireland,3,Both,28,<1 year,5,Years,1990,65.533088,68.046551,62.799036
+28,HALE (Healthy life expectancy),434,Scotland,3,Both,28,<1 year,5,Years,1990,64.598053,67.037411,61.829264
+28,HALE (Healthy life expectancy),435,South Sudan,3,Both,28,<1 year,5,Years,1990,43.555273,46.518461,40.531286
+28,HALE (Healthy life expectancy),35445,Shizuoka,3,Both,28,<1 year,5,Years,2016,73.207134,75.982117,70.02943
+28,HALE (Healthy life expectancy),35446,Aichi,3,Both,28,<1 year,5,Years,2016,72.940274,75.666229,69.795204
+28,HALE (Healthy life expectancy),35447,Mie,3,Both,28,<1 year,5,Years,2016,73.056244,75.923191,69.929604
+28,HALE (Healthy life expectancy),35448,Shiga,3,Both,28,<1 year,5,Years,2016,73.423209,76.287521,70.040478
+28,HALE (Healthy life expectancy),35449,Ky?to,3,Both,28,<1 year,5,Years,2016,73.534365,76.531574,70.358128
+28,HALE (Healthy life expectancy),35450,?saka,3,Both,28,<1 year,5,Years,2016,72.716472,75.536411,69.449471
+28,HALE (Healthy life expectancy),35451,Hy?go,3,Both,28,<1 year,5,Years,2016,73.109167,76.02438,70.026222
+28,HALE (Healthy life expectancy),35452,Nara,3,Both,28,<1 year,5,Years,2016,73.423232,76.241608,70.327103
+28,HALE (Healthy life expectancy),35453,Wakayama,3,Both,28,<1 year,5,Years,2016,72.524754,75.379562,69.374039
+28,HALE (Healthy life expectancy),35454,Tottori,3,Both,28,<1 year,5,Years,2016,72.893813,75.910015,69.55061
+28,HALE (Healthy life expectancy),35455,Shimane,3,Both,28,<1 year,5,Years,2016,73.235827,76.385529,69.824276
+28,HALE (Healthy life expectancy),35456,Okayama,3,Both,28,<1 year,5,Years,2016,73.235553,76.078609,70.03574
+28,HALE (Healthy life expectancy),35457,Hiroshima,3,Both,28,<1 year,5,Years,2016,73.358765,76.312897,70.249966
+28,HALE (Healthy life expectancy),35458,Yamaguchi,3,Both,28,<1 year,5,Years,2016,73.149169,75.996574,70.0933
+28,HALE (Healthy life expectancy),35459,Tokushima,3,Both,28,<1 year,5,Years,2016,72.443049,75.608047,69.158962
+28,HALE (Healthy life expectancy),35460,Kagawa,3,Both,28,<1 year,5,Years,2016,73.083697,75.95528,69.897972
+28,HALE (Healthy life expectancy),35461,Ehime,3,Both,28,<1 year,5,Years,2016,72.882562,75.947124,69.598518
+28,HALE (Healthy life expectancy),35462,K?chi,3,Both,28,<1 year,5,Years,2016,73.038157,75.899345,69.807678
+28,HALE (Healthy life expectancy),35463,Fukuoka,3,Both,28,<1 year,5,Years,2016,73.521797,76.413166,70.375389
+28,HALE (Healthy life expectancy),35464,Saga,3,Both,28,<1 year,5,Years,2016,73.138125,76.095688,69.880253
+28,HALE (Healthy life expectancy),35465,Nagasaki,3,Both,28,<1 year,5,Years,2016,73.357992,76.191044,70.265381
+28,HALE (Healthy life expectancy),35466,Kumamoto,3,Both,28,<1 year,5,Years,2016,74.008928,76.955807,70.772293
+28,HALE (Healthy life expectancy),35467,?ita,3,Both,28,<1 year,5,Years,2016,73.163412,76.300209,70.053413
+28,HALE (Healthy life expectancy),35468,Miyazaki,3,Both,28,<1 year,5,Years,2016,73.544359,76.370373,70.407925
+28,HALE (Healthy life expectancy),35469,Kagoshima,3,Both,28,<1 year,5,Years,2016,72.772249,75.78606,69.343224
+28,HALE (Healthy life expectancy),35470,Okinawa,3,Both,28,<1 year,5,Years,2016,73.615147,76.445095,70.49297
+28,HALE (Healthy life expectancy),35445,Shizuoka,3,Both,28,<1 year,5,Years,1990,69.850736,72.310875,67.104019
+28,HALE (Healthy life expectancy),35446,Aichi,3,Both,28,<1 year,5,Years,1990,69.430118,71.846958,66.699512
+28,HALE (Healthy life expectancy),35447,Mie,3,Both,28,<1 year,5,Years,1990,69.439643,71.886959,66.662739
+28,HALE (Healthy life expectancy),35448,Shiga,3,Both,28,<1 year,5,Years,1990,69.592631,72.051601,66.863182
+28,HALE (Healthy life expectancy),35449,Ky?to,3,Both,28,<1 year,5,Years,1990,69.697081,72.106651,67.010021
+28,HALE (Healthy life expectancy),35450,?saka,3,Both,28,<1 year,5,Years,1990,68.723489,71.154446,65.998497
+28,HALE (Healthy life expectancy),35451,Hy?go,3,Both,28,<1 year,5,Years,1990,69.109792,71.479427,66.4314
+28,HALE (Healthy life expectancy),35452,Nara,3,Both,28,<1 year,5,Years,1990,69.5304,71.93066,66.799206
+28,HALE (Healthy life expectancy),35453,Wakayama,3,Both,28,<1 year,5,Years,1990,68.707492,71.159752,65.892536
+28,HALE (Healthy life expectancy),35454,Tottori,3,Both,28,<1 year,5,Years,1990,69.494969,71.994179,66.704098
+28,HALE (Healthy life expectancy),35455,Shimane,3,Both,28,<1 year,5,Years,1990,69.912735,72.382229,67.109112
+28,HALE (Healthy life expectancy),35456,Okayama,3,Both,28,<1 year,5,Years,1990,69.788463,72.244659,66.96917
+28,HALE (Healthy life expectancy),35457,Hiroshima,3,Both,28,<1 year,5,Years,1990,69.593413,72.011776,66.802002
+28,HALE (Healthy life expectancy),35458,Yamaguchi,3,Both,28,<1 year,5,Years,1990,69.405045,71.846943,66.651604
+28,HALE (Healthy life expectancy),35459,Tokushima,3,Both,28,<1 year,5,Years,1990,69.082112,71.561951,66.2733
+28,HALE (Healthy life expectancy),35460,Kagawa,3,Both,28,<1 year,5,Years,1990,69.601265,72.043018,66.806705
+28,HALE (Healthy life expectancy),35461,Ehime,3,Both,28,<1 year,5,Years,1990,69.389757,71.877892,66.634918
+28,HALE (Healthy life expectancy),35462,K?chi,3,Both,28,<1 year,5,Years,1990,69.107062,71.550297,66.336742
+28,HALE (Healthy life expectancy),35463,Fukuoka,3,Both,28,<1 year,5,Years,1990,69.127241,71.53624,66.424183
+28,HALE (Healthy life expectancy),35464,Saga,3,Both,28,<1 year,5,Years,1990,69.260222,71.694035,66.536339
+28,HALE (Healthy life expectancy),35465,Nagasaki,3,Both,28,<1 year,5,Years,1990,69.13822,71.534405,66.41991
+28,HALE (Healthy life expectancy),35466,Kumamoto,3,Both,28,<1 year,5,Years,1990,69.792472,72.331875,67.045666
+28,HALE (Healthy life expectancy),35467,?ita,3,Both,28,<1 year,5,Years,1990,69.401888,71.887253,66.672386
+28,HALE (Healthy life expectancy),35468,Miyazaki,3,Both,28,<1 year,5,Years,1990,69.279237,71.750416,66.517281
+28,HALE (Healthy life expectancy),35469,Kagoshima,3,Both,28,<1 year,5,Years,1990,69.338556,71.771648,66.647972
+28,HALE (Healthy life expectancy),35470,Okinawa,3,Both,28,<1 year,5,Years,1990,70.152629,72.724758,67.299603
+28,HALE (Healthy life expectancy),44634,High-middle SDI,3,Both,28,<1 year,5,Years,2016,66.732916,69.32373,63.869326
+28,HALE (Healthy life expectancy),44635,High SDI,3,Both,28,<1 year,5,Years,2016,69.937564,72.702038,66.853256
+28,HALE (Healthy life expectancy),44636,Low-middle SDI,3,Both,28,<1 year,5,Years,2016,58.963087,61.316763,56.291822
+28,HALE (Healthy life expectancy),44637,Low SDI,3,Both,28,<1 year,5,Years,2016,54.637971,56.838316,52.206255
+28,HALE (Healthy life expectancy),44639,Middle SDI,3,Both,28,<1 year,5,Years,2016,65.089383,67.296928,62.48983
+28,HALE (Healthy life expectancy),522,Sudan,3,Both,28,<1 year,5,Years,2016,58.172852,61.122997,55.078892
+28,HALE (Healthy life expectancy),522,Sudan,3,Both,28,<1 year,5,Years,1990,49.740316,52.254616,47.072086
+28,HALE (Healthy life expectancy),161,Bangladesh,3,Both,28,<1 year,5,Years,2016,62.769623,65.396313,59.958212
+28,HALE (Healthy life expectancy),162,Bhutan,3,Both,28,<1 year,5,Years,2016,63.177348,66.208015,60.001244
+28,HALE (Healthy life expectancy),163,India,3,Both,28,<1 year,5,Years,2016,58.885739,61.332542,56.138674
+28,HALE (Healthy life expectancy),164,Nepal,3,Both,28,<1 year,5,Years,2016,61.368144,63.77441,58.603622
+28,HALE (Healthy life expectancy),165,Pakistan,3,Both,28,<1 year,5,Years,2016,58.626494,61.190601,55.823805
+28,HALE (Healthy life expectancy),166,Sub-Saharan Africa,3,Both,28,<1 year,5,Years,2016,54.8031,57.02178,52.360857
+28,HALE (Healthy life expectancy),167,Central Sub-Saharan Africa,3,Both,28,<1 year,5,Years,2016,53.376097,55.946512,50.562626
+28,HALE (Healthy life expectancy),168,Angola,3,Both,28,<1 year,5,Years,2016,56.293526,59.672401,52.845015
+28,HALE (Healthy life expectancy),169,Central African Republic,3,Both,28,<1 year,5,Years,2016,43.654566,46.761805,40.421066
+28,HALE (Healthy life expectancy),170,Congo,3,Both,28,<1 year,5,Years,2016,54.63257,57.918968,51.455292
+28,HALE (Healthy life expectancy),171,Democratic Republic of the Congo,3,Both,28,<1 year,5,Years,2016,53.10862,55.812325,50.116217
+28,HALE (Healthy life expectancy),172,Equatorial Guinea,3,Both,28,<1 year,5,Years,2016,56.659542,60.939079,52.47813
+28,HALE (Healthy life expectancy),173,Gabon,3,Both,28,<1 year,5,Years,2016,57.583118,60.544867,54.448997
+28,HALE (Healthy life expectancy),174,Eastern Sub-Saharan Africa,3,Both,28,<1 year,5,Years,2016,55.651186,57.842314,53.156033
+28,HALE (Healthy life expectancy),175,Burundi,3,Both,28,<1 year,5,Years,2016,53.510068,56.279535,50.619261
+28,HALE (Healthy life expectancy),176,Comoros,3,Both,28,<1 year,5,Years,2016,59.288665,61.99999,56.510824
+28,HALE (Healthy life expectancy),177,Djibouti,3,Both,28,<1 year,5,Years,2016,58.580849,61.490644,55.637157
+28,HALE (Healthy life expectancy),178,Eritrea,3,Both,28,<1 year,5,Years,2016,56.158518,58.636868,53.595053
+28,HALE (Healthy life expectancy),179,Ethiopia,3,Both,28,<1 year,5,Years,2016,57.907694,60.491905,55.178244
+28,HALE (Healthy life expectancy),180,Kenya,3,Both,28,<1 year,5,Years,2016,58.590553,60.726839,55.982733
+28,HALE (Healthy life expectancy),181,Madagascar,3,Both,28,<1 year,5,Years,2016,55.214802,58.396212,52.339945
+28,HALE (Healthy life expectancy),182,Malawi,3,Both,28,<1 year,5,Years,2016,52.713671,55.574471,50.028841
+28,HALE (Healthy life expectancy),183,Mauritius,3,Both,28,<1 year,5,Years,2016,64.858583,67.656685,61.681122
+28,HALE (Healthy life expectancy),184,Mozambique,3,Both,28,<1 year,5,Years,2016,52.076117,54.868074,49.316965
+28,HALE (Healthy life expectancy),185,Rwanda,3,Both,28,<1 year,5,Years,2016,59.474307,62.13133,56.701345
+28,HALE (Healthy life expectancy),186,Seychelles,3,Both,28,<1 year,5,Years,2016,64.949875,67.40696,62.374294
+28,HALE (Healthy life expectancy),187,Somalia,3,Both,28,<1 year,5,Years,2016,50.385766,52.85936,47.627089
+28,HALE (Healthy life expectancy),189,Tanzania,3,Both,28,<1 year,5,Years,2016,56.529929,59.108467,53.877098
+28,HALE (Healthy life expectancy),190,Uganda,3,Both,28,<1 year,5,Years,2016,54.346122,56.756645,51.804146
+28,HALE (Healthy life expectancy),191,Zambia,3,Both,28,<1 year,5,Years,2016,51.461552,54.468557,48.770283
+28,HALE (Healthy life expectancy),192,Southern Sub-Saharan Africa,3,Both,28,<1 year,5,Years,2016,53.33167,55.664845,50.952713
+28,HALE (Healthy life expectancy),193,Botswana,3,Both,28,<1 year,5,Years,2016,56.60196,61.709274,52.768738
+28,HALE (Healthy life expectancy),194,Lesotho,3,Both,28,<1 year,5,Years,2016,43.818438,46.437958,41.107098
+28,HALE (Healthy life expectancy),195,Namibia,3,Both,28,<1 year,5,Years,2016,56.470321,59.888781,53.201357
+28,HALE (Healthy life expectancy),196,South Africa,3,Both,28,<1 year,5,Years,2016,53.829869,56.321728,51.366343
+28,HALE (Healthy life expectancy),197,Swaziland,3,Both,28,<1 year,5,Years,2016,49.624205,53.170462,45.856583
+28,HALE (Healthy life expectancy),198,Zimbabwe,3,Both,28,<1 year,5,Years,2016,52.079295,54.692131,49.593277
+28,HALE (Healthy life expectancy),199,Western Sub-Saharan Africa,3,Both,28,<1 year,5,Years,2016,55.030483,57.333731,52.448231
+28,HALE (Healthy life expectancy),200,Benin,3,Both,28,<1 year,5,Years,2016,55.947133,58.384548,53.153179
+28,HALE (Healthy life expectancy),201,Burkina Faso,3,Both,28,<1 year,5,Years,2016,52.928596,55.36993,50.523043
+28,HALE (Healthy life expectancy),202,Cameroon,3,Both,28,<1 year,5,Years,2016,52.490414,55.161905,49.624214
+28,HALE (Healthy life expectancy),203,Cape Verde,3,Both,28,<1 year,5,Years,2016,64.181533,66.904064,61.247511
+28,HALE (Healthy life expectancy),204,Chad,3,Both,28,<1 year,5,Years,2016,51.715776,54.349245,49.178154
+28,HALE (Healthy life expectancy),205,Cote d'Ivoire,3,Both,28,<1 year,5,Years,2016,52.153464,54.570875,49.516088
+28,HALE (Healthy life expectancy),206,The Gambia,3,Both,28,<1 year,5,Years,2016,58.271947,60.848949,55.399811
+28,HALE (Healthy life expectancy),207,Ghana,3,Both,28,<1 year,5,Years,2016,57.922186,60.369198,55.327698
+28,HALE (Healthy life expectancy),208,Guinea,3,Both,28,<1 year,5,Years,2016,52.920412,55.614483,50.125927
+28,HALE (Healthy life expectancy),209,Guinea-Bissau,3,Both,28,<1 year,5,Years,2016,51.386853,53.742271,48.801842
+28,HALE (Healthy life expectancy),210,Liberia,3,Both,28,<1 year,5,Years,2016,55.270706,57.853369,52.461235
+28,HALE (Healthy life expectancy),211,Mali,3,Both,28,<1 year,5,Years,2016,53.692465,56.657459,50.711222
+28,HALE (Healthy life expectancy),212,Mauritania,3,Both,28,<1 year,5,Years,2016,60.98981,63.923206,57.947186
+28,HALE (Healthy life expectancy),213,Niger,3,Both,28,<1 year,5,Years,2016,54.02368,56.79023,51.254871
+28,HALE (Healthy life expectancy),214,Nigeria,3,Both,28,<1 year,5,Years,2016,56.283466,59.231159,53.18112
+28,HALE (Healthy life expectancy),215,Sao Tome and Principe,3,Both,28,<1 year,5,Years,2016,61.650023,64.305264,58.670967
+28,HALE (Healthy life expectancy),216,Senegal,3,Both,28,<1 year,5,Years,2016,57.893363,60.237926,55.300951
+28,HALE (Healthy life expectancy),217,Sierra Leone,3,Both,28,<1 year,5,Years,2016,51.627776,54.049831,49.107113
+28,HALE (Healthy life expectancy),218,Togo,3,Both,28,<1 year,5,Years,2016,54.869175,57.198481,52.274406
+28,HALE (Healthy life expectancy),298,American Samoa,3,Both,28,<1 year,5,Years,2016,62.638977,65.496777,59.535471
+28,HALE (Healthy life expectancy),305,Bermuda,3,Both,28,<1 year,5,Years,2016,69.254101,71.959225,66.257759
+28,HALE (Healthy life expectancy),349,Greenland,3,Both,28,<1 year,5,Years,2016,61.257469,64.200527,58.342789
+28,HALE (Healthy life expectancy),351,Guam,3,Both,28,<1 year,5,Years,2016,63.307807,65.942719,60.385256
+28,HALE (Healthy life expectancy),376,Northern Mariana Islands,3,Both,28,<1 year,5,Years,2016,65.857465,68.595417,62.67473
+28,HALE (Healthy life expectancy),385,Puerto Rico,3,Both,28,<1 year,5,Years,2016,68.617508,71.330753,65.55323
+28,HALE (Healthy life expectancy),422,"Virgin Islands, U.S.",3,Both,28,<1 year,5,Years,2016,65.543889,68.362572,62.602924
+28,HALE (Healthy life expectancy),433,Northern Ireland,3,Both,28,<1 year,5,Years,2016,69.681397,72.693466,66.602085
+28,HALE (Healthy life expectancy),434,Scotland,3,Both,28,<1 year,5,Years,2016,68.681791,71.548065,65.632412
+28,HALE (Healthy life expectancy),435,South Sudan,3,Both,28,<1 year,5,Years,2016,51.667439,54.873493,48.404337
+28,HALE (Healthy life expectancy),44634,High-middle SDI,3,Both,28,<1 year,5,Years,1990,61.175084,63.466122,58.54995
+28,HALE (Healthy life expectancy),44635,High SDI,3,Both,28,<1 year,5,Years,1990,66.064567,68.538273,63.306894
+28,HALE (Healthy life expectancy),44636,Low-middle SDI,3,Both,28,<1 year,5,Years,1990,51.35404,53.461809,49.082178
+28,HALE (Healthy life expectancy),44637,Low SDI,3,Both,28,<1 year,5,Years,1990,45.300071,47.206196,43.216063
+28,HALE (Healthy life expectancy),44639,Middle SDI,3,Both,28,<1 year,5,Years,1990,58.689784,60.678215,56.443981
+28,HALE (Healthy life expectancy),4618,North East England,3,Both,28,<1 year,5,Years,2016,69.115602,71.903603,66.06398
+28,HALE (Healthy life expectancy),4619,North West England,3,Both,28,<1 year,5,Years,2016,69.175234,71.942238,66.114933
+28,HALE (Healthy life expectancy),4620,Yorkshire and the Humber,3,Both,28,<1 year,5,Years,2016,69.648587,72.418976,66.561344
+28,HALE (Healthy life expectancy),4621,East Midlands,3,Both,28,<1 year,5,Years,2016,70.12008,72.945744,66.984047
+28,HALE (Healthy life expectancy),4622,West Midlands,3,Both,28,<1 year,5,Years,2016,69.795277,72.625736,66.689529
+28,HALE (Healthy life expectancy),4623,East of England,3,Both,28,<1 year,5,Years,2016,70.847775,73.67514,67.676094
+28,HALE (Healthy life expectancy),4624,Greater London,3,Both,28,<1 year,5,Years,2016,70.664565,73.480865,67.463196
+28,HALE (Healthy life expectancy),4625,South East England,3,Both,28,<1 year,5,Years,2016,70.995546,73.818615,67.767376
+28,HALE (Healthy life expectancy),4626,South West England,3,Both,28,<1 year,5,Years,2016,70.798567,73.648365,67.585369
+28,HALE (Healthy life expectancy),4636,Wales,3,Both,28,<1 year,5,Years,2016,69.625392,72.440193,66.522133
+28,HALE (Healthy life expectancy),4643,Aguascalientes,3,Both,28,<1 year,5,Years,2016,67.718626,70.287231,64.819698
+28,HALE (Healthy life expectancy),4644,Baja California,3,Both,28,<1 year,5,Years,2016,67.089923,69.790379,64.129803
+28,HALE (Healthy life expectancy),4645,Baja California Sur,3,Both,28,<1 year,5,Years,2016,66.738447,69.528259,63.824451
+28,HALE (Healthy life expectancy),4646,Campeche,3,Both,28,<1 year,5,Years,2016,66.974968,69.665379,64.026402
+28,HALE (Healthy life expectancy),4647,Coahuila,3,Both,28,<1 year,5,Years,2016,66.440439,69.101505,63.627214
+28,HALE (Healthy life expectancy),4648,Colima,3,Both,28,<1 year,5,Years,2016,66.447214,69.114151,63.534781
+28,HALE (Healthy life expectancy),4649,Chiapas,3,Both,28,<1 year,5,Years,2016,65.75471,68.298443,62.915562
+28,HALE (Healthy life expectancy),4650,Chihuahua,3,Both,28,<1 year,5,Years,2016,66.373248,69.199749,63.482525
+28,HALE (Healthy life expectancy),4651,Distrito Federal,3,Both,28,<1 year,5,Years,2016,67.194384,69.854126,64.246155
+28,HALE (Healthy life expectancy),4652,Durango,3,Both,28,<1 year,5,Years,2016,67.611571,70.231392,64.520138
+28,HALE (Healthy life expectancy),4653,Guanajuato,3,Both,28,<1 year,5,Years,2016,66.73967,69.221256,63.972755
+28,HALE (Healthy life expectancy),4654,Guerrero,3,Both,28,<1 year,5,Years,2016,66.709812,69.492512,63.774046
+28,HALE (Healthy life expectancy),4655,Hidalgo,3,Both,28,<1 year,5,Years,2016,67.627008,70.331856,64.690445
+28,HALE (Healthy life expectancy),4656,Jalisco,3,Both,28,<1 year,5,Years,2016,66.719086,69.256706,63.890951
+28,HALE (Healthy life expectancy),4657,México,3,Both,28,<1 year,5,Years,2016,68.013756,70.516701,65.017746
+28,HALE (Healthy life expectancy),4658,Michoacán de Ocampo,3,Both,28,<1 year,5,Years,2016,67.352724,69.981609,64.446381
+28,HALE (Healthy life expectancy),4659,Morelos,3,Both,28,<1 year,5,Years,2016,67.364058,70.009354,64.471649
+28,HALE (Healthy life expectancy),4660,Nayarit,3,Both,28,<1 year,5,Years,2016,67.648702,70.306068,64.679615
+28,HALE (Healthy life expectancy),4661,Nuevo León,3,Both,28,<1 year,5,Years,2016,68.078682,70.72641,65.233906
+28,HALE (Healthy life expectancy),4662,Oaxaca,3,Both,28,<1 year,5,Years,2016,67.112576,69.705509,64.265694
+28,HALE (Healthy life expectancy),4663,Puebla,3,Both,28,<1 year,5,Years,2016,66.771078,69.384956,63.980272
+28,HALE (Healthy life expectancy),4664,Querétaro,3,Both,28,<1 year,5,Years,2016,67.343211,69.962852,64.459171
+28,HALE (Healthy life expectancy),4665,Quintana Roo,3,Both,28,<1 year,5,Years,2016,66.8392,69.561031,63.876411
+28,HALE (Healthy life expectancy),4666,San Luis Potosí,3,Both,28,<1 year,5,Years,2016,67.581905,70.193298,64.588871
+28,HALE (Healthy life expectancy),4667,Sinaloa,3,Both,28,<1 year,5,Years,2016,68.525921,71.394283,65.534958
+28,HALE (Healthy life expectancy),4668,Sonora,3,Both,28,<1 year,5,Years,2016,66.264628,68.971989,63.432308
+28,HALE (Healthy life expectancy),4669,Tabasco,3,Both,28,<1 year,5,Years,2016,66.016661,68.769524,63.158995
+28,HALE (Healthy life expectancy),4670,Tamaulipas,3,Both,28,<1 year,5,Years,2016,67.644403,70.395168,64.722446
+28,HALE (Healthy life expectancy),4671,Tlaxcala,3,Both,28,<1 year,5,Years,2016,68.060412,70.627506,65.096466
+28,HALE (Healthy life expectancy),4672,Veracruz de Ignacio de la Llave,3,Both,28,<1 year,5,Years,2016,65.936126,68.492451,63.103527
+28,HALE (Healthy life expectancy),4673,Yucatán,3,Both,28,<1 year,5,Years,2016,66.827158,69.275738,64.147701
+28,HALE (Healthy life expectancy),4674,Zacatecas,3,Both,28,<1 year,5,Years,2016,67.403871,69.897503,64.628826
+28,HALE (Healthy life expectancy),1,Global,3,Both,28,<1 year,5,Years,1990,56.879316,59.017555,54.52516
+28,HALE (Healthy life expectancy),4,"Southeast Asia, East Asia, and Oceania",3,Both,28,<1 year,5,Years,1990,59.212953,61.123583,57.070265
+28,HALE (Healthy life expectancy),5,East Asia,3,Both,28,<1 year,5,Years,1990,60.010506,61.879341,57.911993
+28,HALE (Healthy life expectancy),6,China,3,Both,28,<1 year,5,Years,1990,59.851563,61.703556,57.763487
+28,HALE (Healthy life expectancy),7,North Korea,3,Both,28,<1 year,5,Years,1990,63.958558,66.319405,61.350988
+28,HALE (Healthy life expectancy),8,Taiwan,3,Both,28,<1 year,5,Years,1990,65.332791,67.660263,62.756224
+28,HALE (Healthy life expectancy),9,Southeast Asia,3,Both,28,<1 year,5,Years,1990,57.454148,59.49251,55.219591
+28,HALE (Healthy life expectancy),10,Cambodia,3,Both,28,<1 year,5,Years,1990,49.862321,51.927065,47.470242
+28,HALE (Healthy life expectancy),11,Indonesia,3,Both,28,<1 year,5,Years,1990,56.138083,58.113655,53.924475
+28,HALE (Healthy life expectancy),12,Laos,3,Both,28,<1 year,5,Years,1990,46.057766,48.182367,43.719307
+28,HALE (Healthy life expectancy),13,Malaysia,3,Both,28,<1 year,5,Years,1990,63.150522,65.295101,60.691118
+28,HALE (Healthy life expectancy),14,Maldives,3,Both,28,<1 year,5,Years,1990,54.40299,56.664625,52.016521
+28,HALE (Healthy life expectancy),15,Myanmar,3,Both,28,<1 year,5,Years,1990,51.308785,53.75223,48.87047
+28,HALE (Healthy life expectancy),16,Philippines,3,Both,28,<1 year,5,Years,1990,58.627813,60.865294,56.19195
+28,HALE (Healthy life expectancy),17,Sri Lanka,3,Both,28,<1 year,5,Years,1990,62.434599,64.84444,59.817509
+28,HALE (Healthy life expectancy),18,Thailand,3,Both,28,<1 year,5,Years,1990,61.889188,64.159512,59.410366
+28,HALE (Healthy life expectancy),19,Timor-Leste,3,Both,28,<1 year,5,Years,1990,50.336158,52.965185,47.550268
+28,HALE (Healthy life expectancy),20,Vietnam,3,Both,28,<1 year,5,Years,1990,60.152069,62.641006,57.545744
+28,HALE (Healthy life expectancy),21,Oceania,3,Both,28,<1 year,5,Years,1990,51.257498,53.691818,48.643539
+28,HALE (Healthy life expectancy),22,Fiji,3,Both,28,<1 year,5,Years,1990,56.992132,60.197603,53.820839
+28,HALE (Healthy life expectancy),23,Kiribati,3,Both,28,<1 year,5,Years,1990,51.04678,53.406155,48.512993
+28,HALE (Healthy life expectancy),24,Marshall Islands,3,Both,28,<1 year,5,Years,1990,56.231602,58.646685,53.649363
+28,HALE (Healthy life expectancy),25,Federated States of Micronesia,3,Both,28,<1 year,5,Years,1990,55.535069,58.16061,52.674604
+28,HALE (Healthy life expectancy),26,Papua New Guinea,3,Both,28,<1 year,5,Years,1990,49.055525,51.551809,46.284355
+28,HALE (Healthy life expectancy),27,Samoa,3,Both,28,<1 year,5,Years,1990,60.368965,63.012691,57.51046
+28,HALE (Healthy life expectancy),28,Solomon Islands,3,Both,28,<1 year,5,Years,1990,52.928032,55.758953,50.324333
+28,HALE (Healthy life expectancy),29,Tonga,3,Both,28,<1 year,5,Years,1990,59.280788,62.148169,56.297239
+28,HALE (Healthy life expectancy),30,Vanuatu,3,Both,28,<1 year,5,Years,1990,54.146353,57.004566,51.239611
+28,HALE (Healthy life expectancy),31,"Central Europe, Eastern Europe, and Central Asia",3,Both,28,<1 year,5,Years,1990,60.281476,62.620819,57.627804
+28,HALE (Healthy life expectancy),32,Central Asia,3,Both,28,<1 year,5,Years,1990,58.957119,61.186069,56.461309
+28,HALE (Healthy life expectancy),33,Armenia,3,Both,28,<1 year,5,Years,1990,61.635552,63.869873,59.047382
+28,HALE (Healthy life expectancy),34,Azerbaijan,3,Both,28,<1 year,5,Years,1990,58.431977,60.840376,55.997829
+28,HALE (Healthy life expectancy),35,Georgia,3,Both,28,<1 year,5,Years,1990,61.487884,63.754358,58.806019
+28,HALE (Healthy life expectancy),36,Kazakhstan,3,Both,28,<1 year,5,Years,1990,59.360095,61.753363,56.644457
+28,HALE (Healthy life expectancy),37,Kyrgyzstan,3,Both,28,<1 year,5,Years,1990,57.714282,59.874432,55.272625
+28,HALE (Healthy life expectancy),38,Mongolia,3,Both,28,<1 year,5,Years,1990,55.073511,57.238295,52.703762
+28,HALE (Healthy life expectancy),39,Tajikistan,3,Both,28,<1 year,5,Years,1990,57.010615,59.438992,54.58209
+28,HALE (Healthy life expectancy),40,Turkmenistan,3,Both,28,<1 year,5,Years,1990,56.250284,58.454603,53.747538
+28,HALE (Healthy life expectancy),41,Uzbekistan,3,Both,28,<1 year,5,Years,1990,59.760275,62.073072,57.152771
+28,HALE (Healthy life expectancy),42,Central Europe,3,Both,28,<1 year,5,Years,1990,61.867855,64.176788,59.205519
+28,HALE (Healthy life expectancy),43,Albania,3,Both,28,<1 year,5,Years,1990,64.41328,66.900181,61.69434
+28,HALE (Healthy life expectancy),44,Bosnia and Herzegovina,3,Both,28,<1 year,5,Years,1990,63.12699,65.768661,60.35519
+28,HALE (Healthy life expectancy),45,Bulgaria,3,Both,28,<1 year,5,Years,1990,62.419938,64.731369,59.794727
+28,HALE (Healthy life expectancy),46,Croatia,3,Both,28,<1 year,5,Years,1990,63.183591,65.627823,60.52681
+28,HALE (Healthy life expectancy),47,Czech Republic,3,Both,28,<1 year,5,Years,1990,62.459151,64.788349,59.678686
+28,HALE (Healthy life expectancy),48,Hungary,3,Both,28,<1 year,5,Years,1990,60.472243,62.804762,57.792015
+28,HALE (Healthy life expectancy),49,Macedonia,3,Both,28,<1 year,5,Years,1990,61.977851,64.302086,59.485748
+28,HALE (Healthy life expectancy),50,Montenegro,3,Both,28,<1 year,5,Years,1990,65.42274,68.032978,62.459366
+28,HALE (Healthy life expectancy),51,Poland,3,Both,28,<1 year,5,Years,1990,61.905357,64.230118,59.231071
+28,HALE (Healthy life expectancy),52,Romania,3,Both,28,<1 year,5,Years,1990,60.834626,63.241478,58.093416
+28,HALE (Healthy life expectancy),53,Serbia,3,Both,28,<1 year,5,Years,1990,63.383616,65.904331,60.634207
+28,HALE (Healthy life expectancy),54,Slovakia,3,Both,28,<1 year,5,Years,1990,61.987276,64.274021,59.276413
+28,HALE (Healthy life expectancy),55,Slovenia,3,Both,28,<1 year,5,Years,1990,63.758894,66.409199,60.862797
+28,HALE (Healthy life expectancy),56,Eastern Europe,3,Both,28,<1 year,5,Years,1990,60.449315,62.939215,57.720293
+28,HALE (Healthy life expectancy),57,Belarus,3,Both,28,<1 year,5,Years,1990,61.647056,64.070465,58.969643
+28,HALE (Healthy life expectancy),58,Estonia,3,Both,28,<1 year,5,Years,1990,60.880116,63.296959,58.13324
+28,HALE (Healthy life expectancy),59,Latvia,3,Both,28,<1 year,5,Years,1990,60.385511,62.76589,57.699291
+28,HALE (Healthy life expectancy),60,Lithuania,3,Both,28,<1 year,5,Years,1990,62.005699,64.437687,59.280163
+28,HALE (Healthy life expectancy),61,Moldova,3,Both,28,<1 year,5,Years,1990,58.703039,61.061316,56.167952
+28,HALE (Healthy life expectancy),62,Russia,3,Both,28,<1 year,5,Years,1990,60.17521,62.776098,57.481726
+28,HALE (Healthy life expectancy),63,Ukraine,3,Both,28,<1 year,5,Years,1990,61.057383,63.483452,58.432011
+28,HALE (Healthy life expectancy),64,High-income,3,Both,28,<1 year,5,Years,1990,66.316198,68.796906,63.52841
+28,HALE (Healthy life expectancy),65,High-income Asia Pacific,3,Both,28,<1 year,5,Years,1990,68.121393,70.595104,65.472847
+28,HALE (Healthy life expectancy),66,Brunei,3,Both,28,<1 year,5,Years,1990,64.29348,66.795765,61.71287
+28,HALE (Healthy life expectancy),67,Japan,3,Both,28,<1 year,5,Years,1990,69.458932,71.885357,66.705421
+28,HALE (Healthy life expectancy),68,South Korea,3,Both,28,<1 year,5,Years,1990,63.428308,65.944351,60.841471
+28,HALE (Healthy life expectancy),69,Singapore,3,Both,28,<1 year,5,Years,1990,66.75474,69.197384,64.075245
+28,HALE (Healthy life expectancy),70,Australasia,3,Both,28,<1 year,5,Years,1990,66.925108,69.476833,64.048103
+28,HALE (Healthy life expectancy),71,Australia,3,Both,28,<1 year,5,Years,1990,67.098657,69.648697,64.207901
+28,HALE (Healthy life expectancy),72,New Zealand,3,Both,28,<1 year,5,Years,1990,66.075235,68.545059,63.255547
+28,HALE (Healthy life expectancy),73,Western Europe,3,Both,28,<1 year,5,Years,1990,66.56262,69.057426,63.745207
+28,HALE (Healthy life expectancy),74,Andorra,3,Both,28,<1 year,5,Years,1990,68.803579,72.044964,65.574249
+28,HALE (Healthy life expectancy),75,Austria,3,Both,28,<1 year,5,Years,1990,66.211958,68.690784,63.482897
+28,HALE (Healthy life expectancy),76,Belgium,3,Both,28,<1 year,5,Years,1990,66.313078,68.772423,63.474358
+28,HALE (Healthy life expectancy),77,Cyprus,3,Both,28,<1 year,5,Years,1990,65.641762,68.064011,63.013329
+28,HALE (Healthy life expectancy),78,Denmark,3,Both,28,<1 year,5,Years,1990,65.589969,68.112267,62.831848
+28,HALE (Healthy life expectancy),79,Finland,3,Both,28,<1 year,5,Years,1990,65.106227,67.727005,62.228161
+28,HALE (Healthy life expectancy),80,France,3,Both,28,<1 year,5,Years,1990,67.388072,69.898502,64.540005
+28,HALE (Healthy life expectancy),81,Germany,3,Both,28,<1 year,5,Years,1990,65.773103,68.234543,62.985542
+28,HALE (Healthy life expectancy),82,Greece,3,Both,28,<1 year,5,Years,1990,67.372737,69.820724,64.576298
+28,HALE (Healthy life expectancy),83,Iceland,3,Both,28,<1 year,5,Years,1990,67.9584,70.579075,65.013538
+28,HALE (Healthy life expectancy),84,Ireland,3,Both,28,<1 year,5,Years,1990,65.465296,67.934853,62.687023
+28,HALE (Healthy life expectancy),85,Israel,3,Both,28,<1 year,5,Years,1990,66.441425,68.993176,63.599739
+28,HALE (Healthy life expectancy),86,Italy,3,Both,28,<1 year,5,Years,1990,67.254195,69.779613,64.431915
+28,HALE (Healthy life expectancy),87,Luxembourg,3,Both,28,<1 year,5,Years,1990,65.225898,67.820465,62.309179
+28,HALE (Healthy life expectancy),88,Malta,3,Both,28,<1 year,5,Years,1990,66.362754,68.919746,63.529694
+28,HALE (Healthy life expectancy),89,Netherlands,3,Both,28,<1 year,5,Years,1990,67.013469,69.593311,64.16008
+28,HALE (Healthy life expectancy),90,Norway,3,Both,28,<1 year,5,Years,1990,67.123112,69.642494,64.251549
+28,HALE (Healthy life expectancy),91,Portugal,3,Both,28,<1 year,5,Years,1990,64.935638,67.315792,62.183752
+28,HALE (Healthy life expectancy),92,Spain,3,Both,28,<1 year,5,Years,1990,67.656574,70.129501,64.832176
+28,HALE (Healthy life expectancy),93,Sweden,3,Both,28,<1 year,5,Years,1990,67.489539,70.13678,64.522701
+28,HALE (Healthy life expectancy),94,Switzerland,3,Both,28,<1 year,5,Years,1990,67.165258,69.91888,64.157478
+28,HALE (Healthy life expectancy),95,United Kingdom,3,Both,28,<1 year,5,Years,1990,65.890283,68.444489,63.035624
+28,HALE (Healthy life expectancy),96,Southern Latin America,3,Both,28,<1 year,5,Years,1990,63.651394,65.961025,61.044085
+28,HALE (Healthy life expectancy),97,Argentina,3,Both,28,<1 year,5,Years,1990,63.352294,65.67527,60.727882
+28,HALE (Healthy life expectancy),98,Chile,3,Both,28,<1 year,5,Years,1990,64.23721,66.724976,61.56669
+28,HALE (Healthy life expectancy),99,Uruguay,3,Both,28,<1 year,5,Years,1990,64.239649,66.389484,61.7052
+28,HALE (Healthy life expectancy),4749,England,3,Both,28,<1 year,5,Years,2016,70.236987,73.040718,67.102219
+28,HALE (Healthy life expectancy),4940,Sweden except Stockholm,3,Both,28,<1 year,5,Years,2016,70.686877,73.669052,67.367374
+28,HALE (Healthy life expectancy),4944,Stockholm,3,Both,28,<1 year,5,Years,2016,71.607788,74.775955,68.345821
+28,HALE (Healthy life expectancy),35424,Hokkaid?,3,Both,28,<1 year,5,Years,2016,73.081336,76.212929,69.782703
+28,HALE (Healthy life expectancy),35425,Aomori,3,Both,28,<1 year,5,Years,2016,72.207277,74.964287,69.131565
+28,HALE (Healthy life expectancy),35426,Iwate,3,Both,28,<1 year,5,Years,2016,73.026819,75.900917,69.871197
+28,HALE (Healthy life expectancy),35427,Miyagi,3,Both,28,<1 year,5,Years,2016,73.748701,76.754528,70.542942
+28,HALE (Healthy life expectancy),35428,Akita,3,Both,28,<1 year,5,Years,2016,72.76803,75.59314,69.677723
+28,HALE (Healthy life expectancy),35429,Yamagata,3,Both,28,<1 year,5,Years,2016,73.288248,76.179989,70.259159
+28,HALE (Healthy life expectancy),35430,Fukushima,3,Both,28,<1 year,5,Years,2016,72.966774,75.968914,69.919979
+28,HALE (Healthy life expectancy),35431,Ibaraki,3,Both,28,<1 year,5,Years,2016,72.767585,75.553131,69.759872
+28,HALE (Healthy life expectancy),35432,Tochigi,3,Both,28,<1 year,5,Years,2016,72.875839,75.719318,69.804428
+28,HALE (Healthy life expectancy),35433,Gunma,3,Both,28,<1 year,5,Years,2016,72.875673,75.738789,69.78672
+28,HALE (Healthy life expectancy),35434,Saitama,3,Both,28,<1 year,5,Years,2016,72.893642,75.731476,69.732105
+28,HALE (Healthy life expectancy),35435,Chiba,3,Both,28,<1 year,5,Years,2016,73.098748,75.835327,70.037903
+28,HALE (Healthy life expectancy),35436,T?ky?,3,Both,28,<1 year,5,Years,2016,73.249782,76.188034,70.124393
+28,HALE (Healthy life expectancy),35437,Kanagawa,3,Both,28,<1 year,5,Years,2016,73.40048,76.16333,70.24921
+28,HALE (Healthy life expectancy),35438,Niigata,3,Both,28,<1 year,5,Years,2016,73.11156,76.152603,69.786537
+28,HALE (Healthy life expectancy),35439,Toyama,3,Both,28,<1 year,5,Years,2016,73.409727,76.266041,70.284519
+28,HALE (Healthy life expectancy),35440,Ishikawa,3,Both,28,<1 year,5,Years,2016,73.582485,76.428429,70.462681
+28,HALE (Healthy life expectancy),35441,Fukui,3,Both,28,<1 year,5,Years,2016,73.568352,76.499027,70.403431
+28,HALE (Healthy life expectancy),35442,Yamanashi,3,Both,28,<1 year,5,Years,2016,73.087997,75.934052,69.70929
+28,HALE (Healthy life expectancy),35443,Nagano,3,Both,28,<1 year,5,Years,2016,73.979471,77.098602,70.635448
+28,HALE (Healthy life expectancy),35444,Gifu,3,Both,28,<1 year,5,Years,2016,72.995378,75.987476,69.827591
+28,HALE (Healthy life expectancy),100,High-income North America,3,Both,28,<1 year,5,Years,1990,65.502582,68.075214,62.638124
+28,HALE (Healthy life expectancy),101,Canada,3,Both,28,<1 year,5,Years,1990,67.797927,70.320847,65.033939
+28,HALE (Healthy life expectancy),102,United States,3,Both,28,<1 year,5,Years,1990,65.261344,67.853748,62.380051
+28,HALE (Healthy life expectancy),103,Latin America and Caribbean,3,Both,28,<1 year,5,Years,1990,60.976573,63.185341,58.396215
+28,HALE (Healthy life expectancy),104,Caribbean,3,Both,28,<1 year,5,Years,1990,59.344093,61.681597,56.812334
+28,HALE (Healthy life expectancy),105,Antigua and Barbuda,3,Both,28,<1 year,5,Years,1990,64.832417,67.30201,62.131046
+28,HALE (Healthy life expectancy),106,The Bahamas,3,Both,28,<1 year,5,Years,1990,62.058206,64.433754,59.452822
+28,HALE (Healthy life expectancy),107,Barbados,3,Both,28,<1 year,5,Years,1990,64.745398,67.211597,62.074781
+28,HALE (Healthy life expectancy),108,Belize,3,Both,28,<1 year,5,Years,1990,62.767078,65.218395,59.872683
+28,HALE (Healthy life expectancy),109,Cuba,3,Both,28,<1 year,5,Years,1990,65.641092,68.088253,62.918545
+28,HALE (Healthy life expectancy),110,Dominica,3,Both,28,<1 year,5,Years,1990,63.523461,65.81562,60.922625
+28,HALE (Healthy life expectancy),111,Dominican Republic,3,Both,28,<1 year,5,Years,1990,62.344632,64.753807,59.719961
+28,HALE (Healthy life expectancy),112,Grenada,3,Both,28,<1 year,5,Years,1990,61.914969,64.489975,59.056513
+28,HALE (Healthy life expectancy),113,Guyana,3,Both,28,<1 year,5,Years,1990,56.207966,58.487362,53.817165
+28,HALE (Healthy life expectancy),114,Haiti,3,Both,28,<1 year,5,Years,1990,47.066598,49.425062,44.606602
+28,HALE (Healthy life expectancy),115,Jamaica,3,Both,28,<1 year,5,Years,1990,65.032086,67.670727,62.17197
+28,HALE (Healthy life expectancy),116,Saint Lucia,3,Both,28,<1 year,5,Years,1990,62.436355,65.044273,59.596798
+28,HALE (Healthy life expectancy),117,Saint Vincent and the Grenadines,3,Both,28,<1 year,5,Years,1990,61.985961,64.314003,59.249804
+28,HALE (Healthy life expectancy),118,Suriname,3,Both,28,<1 year,5,Years,1990,61.313906,63.697321,58.590122
+28,HALE (Healthy life expectancy),119,Trinidad and Tobago,3,Both,28,<1 year,5,Years,1990,60.483811,62.77035,57.964272
+28,HALE (Healthy life expectancy),120,Andean Latin America,3,Both,28,<1 year,5,Years,1990,59.840888,62.021654,57.375141
+28,HALE (Healthy life expectancy),121,Bolivia,3,Both,28,<1 year,5,Years,1990,53.560066,55.835804,51.08259
+28,HALE (Healthy life expectancy),122,Ecuador,3,Both,28,<1 year,5,Years,1990,62.662909,65.000423,60.027178
+28,HALE (Healthy life expectancy),123,Peru,3,Both,28,<1 year,5,Years,1990,60.885996,63.163973,58.349272
+28,HALE (Healthy life expectancy),124,Central Latin America,3,Both,28,<1 year,5,Years,1990,62.650388,64.849205,60.036634
+28,HALE (Healthy life expectancy),125,Colombia,3,Both,28,<1 year,5,Years,1990,63.096475,65.295864,60.517864
+28,HALE (Healthy life expectancy),126,Costa Rica,3,Both,28,<1 year,5,Years,1990,67.593066,69.952976,64.921875
+28,HALE (Healthy life expectancy),127,El Salvador,3,Both,28,<1 year,5,Years,1990,60.122353,62.358831,57.729902
+28,HALE (Healthy life expectancy),128,Guatemala,3,Both,28,<1 year,5,Years,1990,56.691856,59.125225,54.085615
+28,HALE (Healthy life expectancy),129,Honduras,3,Both,28,<1 year,5,Years,1990,59.472726,61.941772,57.079922
+28,HALE (Healthy life expectancy),130,Mexico,3,Both,28,<1 year,5,Years,1990,62.782971,65.057243,60.20639
+28,HALE (Healthy life expectancy),131,Nicaragua,3,Both,28,<1 year,5,Years,1990,64.606176,67.004314,61.999039
+28,HALE (Healthy life expectancy),132,Panama,3,Both,28,<1 year,5,Years,1990,66.178061,68.576462,63.589085
+28,HALE (Healthy life expectancy),133,Venezuela,3,Both,28,<1 year,5,Years,1990,64.25387,66.510986,61.664555
+28,HALE (Healthy life expectancy),134,Tropical Latin America,3,Both,28,<1 year,5,Years,1990,59.898045,62.1779,57.22172
+28,HALE (Healthy life expectancy),135,Brazil,3,Both,28,<1 year,5,Years,1990,59.775073,62.059744,57.096369
+28,HALE (Healthy life expectancy),136,Paraguay,3,Both,28,<1 year,5,Years,1990,65.094069,67.598057,62.297251
+28,HALE (Healthy life expectancy),137,North Africa and Middle East,3,Both,28,<1 year,5,Years,1990,57.011578,59.60042,54.171482
+28,HALE (Healthy life expectancy),138,North Africa and Middle East,3,Both,28,<1 year,5,Years,1990,57.011578,59.60042,54.171482
+28,HALE (Healthy life expectancy),139,Algeria,3,Both,28,<1 year,5,Years,1990,60.553515,63.367571,57.656454
+28,HALE (Healthy life expectancy),140,Bahrain,3,Both,28,<1 year,5,Years,1990,59.645381,62.544413,56.776125
+28,HALE (Healthy life expectancy),141,Egypt,3,Both,28,<1 year,5,Years,1990,55.948438,58.399754,53.199398
+28,HALE (Healthy life expectancy),142,Iran,3,Both,28,<1 year,5,Years,1990,57.96666,61.132854,54.753254
+28,HALE (Healthy life expectancy),143,Iraq,3,Both,28,<1 year,5,Years,1990,55.879155,58.763273,52.780945
+28,HALE (Healthy life expectancy),144,Jordan,3,Both,28,<1 year,5,Years,1990,61.018978,63.996025,57.8866
+28,HALE (Healthy life expectancy),145,Kuwait,3,Both,28,<1 year,5,Years,1990,64.885912,67.950962,61.563408
+28,HALE (Healthy life expectancy),146,Lebanon,3,Both,28,<1 year,5,Years,1990,59.067172,61.927425,56.020002
+28,HALE (Healthy life expectancy),147,Libya,3,Both,28,<1 year,5,Years,1990,62.444602,65.282669,59.440395
+28,HALE (Healthy life expectancy),148,Morocco,3,Both,28,<1 year,5,Years,1990,57.247178,59.909695,54.287262
+28,HALE (Healthy life expectancy),149,Palestine,3,Both,28,<1 year,5,Years,1990,60.878219,63.656399,57.880152
+28,HALE (Healthy life expectancy),150,Oman,3,Both,28,<1 year,5,Years,1990,60.31904,63.103081,57.165327
+28,HALE (Healthy life expectancy),151,Qatar,3,Both,28,<1 year,5,Years,1990,63.977071,67.22411,60.612595
+28,HALE (Healthy life expectancy),152,Saudi Arabia,3,Both,28,<1 year,5,Years,1990,61.381883,64.281242,58.200914
+28,HALE (Healthy life expectancy),153,Syria,3,Both,28,<1 year,5,Years,1990,60.751826,63.485008,57.75036
+28,HALE (Healthy life expectancy),154,Tunisia,3,Both,28,<1 year,5,Years,1990,61.573412,64.312065,58.611652
+28,HALE (Healthy life expectancy),155,Turkey,3,Both,28,<1 year,5,Years,1990,59.56189,62.349976,56.530476
+28,HALE (Healthy life expectancy),156,United Arab Emirates,3,Both,28,<1 year,5,Years,1990,62.073453,65.585945,58.382627
+28,HALE (Healthy life expectancy),157,Yemen,3,Both,28,<1 year,5,Years,1990,48.772281,51.59477,45.845768
+28,HALE (Healthy life expectancy),158,South Asia,3,Both,28,<1 year,5,Years,1990,50.918035,53.069643,48.576981
+28,HALE (Healthy life expectancy),159,South Asia,3,Both,28,<1 year,5,Years,1990,50.918035,53.069643,48.576981
+28,HALE (Healthy life expectancy),160,Afghanistan,3,Both,28,<1 year,5,Years,1990,43.57088,45.978052,40.883324

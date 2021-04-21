@@ -1,0 +1,647 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,48407.8380601,51762.0270993,45385.4045521
+2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26789.9903271,30022.677728399998,23893.7278498
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34740.6518582,38128.4773747,31772.543044700004
+2,DALYs (Disability-Adjusted Life Years),35436,T?ky?,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20931.6034126,23862.7754032,18374.647003
+2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,66425.4713985,72752.35136130001,60775.279948
+2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,84116.2479741,89934.2419165,78688.1200568
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24141.0339885,27426.191512800004,20987.6428107
+2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,39073.1920206,43364.8405023,34590.272776499995
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,42030.2334752,45370.2829049,38913.1260372
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,77954.0519521,82698.473738,73683.766635
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36001.2475825,39864.6267085,32268.4119768
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27501.8882312,31203.1682222,24340.515811399997
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,64247.9151244,67988.3897381,60728.380359099996
+2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30713.010207699997,33991.5492485,27679.8303438
+2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,104615.93414000001,110317.40231,99305.8565699
+2,DALYs (Disability-Adjusted Life Years),35456,Okayama,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20801.596163,23787.67223,18254.3208507
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,57547.1653411,61810.5239183,53513.8822825
+2,DALYs (Disability-Adjusted Life Years),142,Iran,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,44332.028302499995,50456.724504399994,38637.7557745
+2,DALYs (Disability-Adjusted Life Years),4619,North West England,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21433.2707112,24659.786401100002,18516.6266186
+2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,50677.7000309,58535.047743099996,43859.9825257
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36653.2286265,40119.7681925,33387.3623977
+2,DALYs (Disability-Adjusted Life Years),4666,San Luis Potosí,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34019.8785795,37268.881767,30920.0721617
+2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24041.739525200002,27134.2880831,21292.971201
+2,DALYs (Disability-Adjusted Life Years),4,"Southeast Asia, East Asia, and Oceania",3,Both,27,Age-standardized,294,All causes,3,Rate,1990,43059.7891899,46129.2694671,40324.1753358
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36258.2882992,39914.4886712,32979.986701300004
+2,DALYs (Disability-Adjusted Life Years),4665,Quintana Roo,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29985.3482077,33249.2191358,26948.535501300004
+2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16420.9083591,19484.532366000003,13551.8516984
+2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,75301.0976431,80563.4896156,70367.717757
+2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,89708.9444092,98257.51348190001,81211.8620899
+2,DALYs (Disability-Adjusted Life Years),102,United States,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28162.3799844,31471.3701036,25145.1520461
+2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24296.101314400003,27487.5148279,21532.846304799998
+2,DALYs (Disability-Adjusted Life Years),4645,Baja California Sur,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30989.2643166,34382.544872800005,27763.6772503
+2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,73911.1885447,82598.5078386,65846.94965370001
+2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33131.4238672,36221.84763,30266.609893899997
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35371.8325665,38581.382814900004,32348.6100506
+2,DALYs (Disability-Adjusted Life Years),62,Russia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38664.8309121,42330.3507678,34821.083551300006
+2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29995.8952747,34077.0184502,26440.7551334
+2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,67229.4608816,71461.8923256,63011.0310966
+2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,49370.177264800004,53718.5405752,45487.829283800005
+2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19101.719169699998,22303.600987399997,16078.158550900002
+2,DALYs (Disability-Adjusted Life Years),35457,Hiroshima,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21040.3776002,23952.763831599998,18495.7800775
+2,DALYs (Disability-Adjusted Life Years),4618,North East England,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21461.5406736,24688.819056700002,18503.8968863
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36236.9302433,39616.0485763,33254.6486364
+2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,56028.2486104,59557.673951000004,52841.8205139
+2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,49354.898790399995,53965.682599,45194.4627973
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,41273.1513954,44154.9441673,38592.106357900004
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32441.6790746,37709.8556237,27479.4992812
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,60072.3830446,64762.22063330001,55974.9404304
+2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,73205.7375687,77993.6999289,68442.6881279
+2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,25745.8466348,29122.0096614,22684.5620262
+2,DALYs (Disability-Adjusted Life Years),4620,Yorkshire and the Humber,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20794.002516499997,24036.9905511,17891.1882896
+2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31790.9806374,35233.2283686,28616.662494599997
+2,DALYs (Disability-Adjusted Life Years),206,The Gambia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,43802.8227211,48413.5634644,39573.9888212
+2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35874.894578,40191.608614000004,31910.8737047
+2,DALYs (Disability-Adjusted Life Years),166,Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53604.130360799994,57313.5668749,50157.3453094
+2,DALYs (Disability-Adjusted Life Years),4940,Sweden except Stockholm,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,23765.0542824,27128.387560299998,20806.4905694
+2,DALYs (Disability-Adjusted Life Years),4672,Veracruz de Ignacio de la Llave,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27749.421029799996,31160.6612119,24675.941413300003
+2,DALYs (Disability-Adjusted Life Years),35437,Kanagawa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20601.448593499998,23521.013834999998,18077.8377653
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18948.677989699998,22088.284104299997,16210.7433292
+2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,41694.20705,44612.3192202,39004.8543357
+2,DALYs (Disability-Adjusted Life Years),103,Latin America and Caribbean,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38478.1849715,41725.7891418,35616.599959
+2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,23246.272007900003,26468.6973201,20389.196612300002
+2,DALYs (Disability-Adjusted Life Years),4648,Colima,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34654.8533742,38282.7060743,31285.4556306
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,90654.2636546,98762.6781546,82101.1509595
+2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33665.025109300004,36983.580252,30712.092038099996
+2,DALYs (Disability-Adjusted Life Years),25,Federated States of Micronesia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,52164.854088199994,59084.506050100004,46024.6523586
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,23416.6869014,26316.8696084,20737.360769400002
+2,DALYs (Disability-Adjusted Life Years),12,Laos,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,42883.044161599995,50481.4297376,37139.914911600004
+2,DALYs (Disability-Adjusted Life Years),4669,Tabasco,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34297.395335,37730.4033614,31117.838843399997
+2,DALYs (Disability-Adjusted Life Years),7,North Korea,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31942.4213896,35939.1377698,28461.714692
+2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,59198.054139800006,65037.006821999996,53801.102417400005
+2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25926.4471411,29246.160235800002,22909.0827212
+2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21845.147975599997,25038.6488849,18925.168697700003
+2,DALYs (Disability-Adjusted Life Years),35458,Yamaguchi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21307.9186783,24248.2820302,18689.4069194
+2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18246.1354307,21206.789450800003,15479.3311462
+2,DALYs (Disability-Adjusted Life Years),35459,Tokushima,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21718.9809307,24720.724707,19008.473286
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25737.198437699997,28753.813958000002,22984.2178945
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26599.4009912,29753.080937100003,23792.894541
+2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32934.183766,37661.9600841,28708.108749099996
+2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29035.6812083,32592.6437909,25852.643620299998
+2,DALYs (Disability-Adjusted Life Years),31,"Central Europe, Eastern Europe, and Central Asia",3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31669.1836872,35877.015819,27798.9248066
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,30956.5923389,36734.756734200004,26072.790273699997
+2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,56663.8836526,63630.2502419,49981.1319822
+2,DALYs (Disability-Adjusted Life Years),35439,Toyama,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20912.8210867,23779.0574826,18376.6809894
+2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29289.5958134,33472.389375700004,25446.4364068
+2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33686.9406546,37893.7174172,29813.508669099996
+2,DALYs (Disability-Adjusted Life Years),4667,Sinaloa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30289.3657506,33583.2557386,27352.197460900003
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,41655.4266776,45285.864422599996,38099.998575900005
+2,DALYs (Disability-Adjusted Life Years),35438,Niigata,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20501.517453599998,23465.6139165,17879.5106953
+2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,66448.7593921,71965.3996789,61869.2103724
+2,DALYs (Disability-Adjusted Life Years),433,Northern Ireland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20916.9680905,24244.2931673,17674.8812893
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,34549.6712046,38547.6215147,31140.4053863
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27347.3062546,30660.505655999998,24407.990326
+2,DALYs (Disability-Adjusted Life Years),4673,Yucatán,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25752.5159798,29044.966949899997,22814.2842659
+2,DALYs (Disability-Adjusted Life Years),35444,Gifu,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16979.0605103,20127.174127399998,14108.7631773
+2,DALYs (Disability-Adjusted Life Years),64,High-income,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26274.4865323,29450.083186499996,23469.2862146
+2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,68041.7618506,74465.8991592,61823.753133000006
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19812.008735,23062.2029216,16912.0607978
+2,DALYs (Disability-Adjusted Life Years),4647,Coahuila,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34508.3578573,37959.4655022,31449.649416199998
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29178.235325200003,32506.480241899997,25950.293175599996
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33983.195595,37351.4089791,30693.6953791
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34262.0564053,37488.660508,31436.0805029
+2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,62859.6248501,68649.4788739,57323.921737000004
+2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,45474.7696267,49986.4054228,41276.021638
+2,DALYs (Disability-Adjusted Life Years),4749,England,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26210.316324900003,29499.284153599998,23311.7101235
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23182.3929773,26492.4613127,20299.7869667
+2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,68413.6552541,76985.3334359,60540.9539637
+2,DALYs (Disability-Adjusted Life Years),66,Brunei,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29876.9622987,33101.4872988,26741.0714008
+2,DALYs (Disability-Adjusted Life Years),189,Tanzania,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,49301.874610399995,54422.02060719999,44768.085365499996
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23324.798930499997,26927.559755899998,20136.6703124
+2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18780.7610653,21958.1001033,16008.1848039
+2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,64472.648430299996,70099.41823719999,59318.697998100004
+2,DALYs (Disability-Adjusted Life Years),203,Cape Verde,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,42598.6777785,46528.540635,38717.1641074
+2,DALYs (Disability-Adjusted Life Years),35425,Aomori,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17977.385873000003,20978.7698604,15271.1817387
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29562.4368174,33132.2485359,26401.5437518
+2,DALYs (Disability-Adjusted Life Years),35445,Shizuoka,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16741.8245778,19746.4495784,14126.9727796
+2,DALYs (Disability-Adjusted Life Years),4674,Zacatecas,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25395.6407778,28514.4258391,22257.9907426
+2,DALYs (Disability-Adjusted Life Years),422,"Virgin Islands, U.S.",3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27871.7406459,31701.475469200002,24329.0113354
+2,DALYs (Disability-Adjusted Life Years),4653,Guanajuato,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26218.427431199998,29446.316954,23397.1380265
+2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30211.9798978,33667.757720300004,27166.433495499998
+2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,22455.4290877,27133.246967500003,18237.4799175
+2,DALYs (Disability-Adjusted Life Years),4622,West Midlands,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20737.9595847,23991.8838165,17791.5167983
+2,DALYs (Disability-Adjusted Life Years),35440,Ishikawa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20533.4770451,23536.2912938,17896.9267565
+2,DALYs (Disability-Adjusted Life Years),35461,Ehime,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21372.192157100002,24358.8429974,18747.088642900002
+2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,48157.5098313,54800.7884771,41736.497945200004
+2,DALYs (Disability-Adjusted Life Years),4655,Hidalgo,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24802.9084106,28020.058486299997,21700.948068100002
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23042.0510315,26485.763687500003,19852.7192829
+2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,88256.0103391,95562.5478982,81105.4814476
+2,DALYs (Disability-Adjusted Life Years),35463,Fukuoka,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16573.8191066,19498.0569604,13889.8195413
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,83839.1067588,88221.9267591,79993.4806046
+2,DALYs (Disability-Adjusted Life Years),422,"Virgin Islands, U.S.",3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31144.7836923,34440.032281499996,27932.9342324
+2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31237.860505499997,35706.943636799995,27276.9286672
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32128.019011499997,35833.7408068,28541.449994500003
+2,DALYs (Disability-Adjusted Life Years),4668,Sonora,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34425.2654877,38004.9047612,31246.1393149
+2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25850.592522900002,29068.9767492,22834.0743233
+2,DALYs (Disability-Adjusted Life Years),49,Macedonia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35258.2990954,38592.2317604,32203.485983000002
+2,DALYs (Disability-Adjusted Life Years),4618,North East England,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28253.567982200002,31524.2942378,25240.381649600004
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27827.0082718,31494.543293400002,24279.2153314
+2,DALYs (Disability-Adjusted Life Years),35448,Shiga,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16523.5419361,19877.406745599998,13816.1918215
+2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,41236.4094739,46749.6788828,35999.0682336
+2,DALYs (Disability-Adjusted Life Years),4646,Campeche,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33105.5329576,36365.811122,30091.004603999998
+2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,95449.0451349,105740.87436199999,87374.8615744
+2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19737.2798822,22936.8936014,16897.5333788
+2,DALYs (Disability-Adjusted Life Years),35424,Hokkaid?,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17162.633362599998,20339.0608838,14172.9807599
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,93687.7745459,107200.241458,81538.3180821
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25860.9536019,28978.9187613,23271.2154837
+2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23439.8915792,26735.7420171,20284.9060699
+2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18828.1375608,22135.9855589,15886.9234775
+2,DALYs (Disability-Adjusted Life Years),4944,Stockholm,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,23884.2647465,27025.697385000003,21108.5253355
+2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28204.0514453,32678.7029918,24314.0201934
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,57816.582075,65637.52874610001,50714.0326086
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35112.7122728,38232.075350700004,32427.2499252
+2,DALYs (Disability-Adjusted Life Years),106,The Bahamas,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35543.018888599996,39447.1868662,32019.7712384
+2,DALYs (Disability-Adjusted Life Years),35466,Kumamoto,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16164.0974369,19116.0214418,13434.2569252
+2,DALYs (Disability-Adjusted Life Years),4672,Veracruz de Ignacio de la Llave,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34758.7999486,38160.7698554,31722.5553015
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,57212.6488742,63403.8879242,51435.3288756
+2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,68624.694428,73354.29153789999,63970.231346600005
+2,DALYs (Disability-Adjusted Life Years),35464,Saga,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17021.5497334,20251.5693565,14223.6001686
+2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,94234.1690083,101068.024971,87604.00603189999
+2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,49378.8001518,58607.4377025,41372.3653968
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,63940.6068346,67834.06006440001,60469.7600173
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19050.6540594,22165.1075743,16282.123223700002
+2,DALYs (Disability-Adjusted Life Years),35426,Iwate,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17258.0536346,20273.0862757,14613.9083744
+2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,64810.3415961,68652.5092835,61303.269655100004
+2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17281.1300813,20151.5090499,14595.0995981
+2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,25690.293578099998,29007.128367200003,22548.5263804
+2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,55387.0502372,59800.1181809,51254.770508500005
+2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25514.571272999998,29073.6809679,22232.6382333
+2,DALYs (Disability-Adjusted Life Years),4656,Jalisco,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26400.783552099998,29857.9894694,23184.454165000003
+2,DALYs (Disability-Adjusted Life Years),35465,Nagasaki,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16818.3806742,19808.528936299997,14145.466397
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33517.6277136,37989.3165239,29447.0241765
+2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37413.375176199996,40708.607207500005,34636.9801696
+2,DALYs (Disability-Adjusted Life Years),4620,Yorkshire and the Humber,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27006.280145599998,30327.2338387,24053.84856
+2,DALYs (Disability-Adjusted Life Years),4621,East Midlands,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20140.6004408,23391.4657301,17235.8155534
+2,DALYs (Disability-Adjusted Life Years),4670,Tamaulipas,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33024.3503615,36537.1996774,30042.5137637
+2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38683.6676256,43768.2602576,34162.633883999995
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20257.3043523,23468.6925057,17367.2724633
+2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,37833.091502999996,42489.5056531,33299.348877000004
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,25262.7739219,28494.623502600003,22297.1528917
+2,DALYs (Disability-Adjusted Life Years),4650,Chihuahua,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,39774.3761705,43430.917441900005,36288.9232069
+2,DALYs (Disability-Adjusted Life Years),47,Czech Republic,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32971.583986800004,36429.7615112,30083.385095999998
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28943.807106199998,33197.389101,25029.808615600003
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28439.1575714,31645.453147199998,25441.1383655
+2,DALYs (Disability-Adjusted Life Years),35460,Kagawa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21059.5517003,23959.7915091,18443.7773255
+2,DALYs (Disability-Adjusted Life Years),35464,Saga,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21563.6584788,24459.6924163,18955.0241016
+2,DALYs (Disability-Adjusted Life Years),4659,Morelos,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25297.719621800003,28432.261115,22101.767273100002
+2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,25644.154864300002,28936.9324861,22637.6157177
+2,DALYs (Disability-Adjusted Life Years),4654,Guerrero,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27460.283689699998,30938.446047899997,24169.0173383
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29882.597396499998,33028.010079,27020.8378672
+2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18806.6468623,22502.969414,15665.264458700001
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28150.6276981,31303.968432200003,25344.770767699996
+2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37934.879996300006,41303.812018699995,34853.695967600004
+2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29918.0995327,34256.904944099995,25670.8632193
+2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32016.9914302,35606.7592212,28829.7064128
+2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27097.984317500002,30473.795706599998,23910.1882612
+2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,43529.9478952,50976.3236165,37378.5135983
+2,DALYs (Disability-Adjusted Life Years),35451,Hy?go,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16833.601477,19767.4537434,14097.8782645
+2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34496.3122487,38157.8003223,31371.355990599997
+2,DALYs (Disability-Adjusted Life Years),4619,North West England,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28083.677356199998,31462.7092495,25003.455020299996
+2,DALYs (Disability-Adjusted Life Years),4652,Durango,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35678.8596606,38989.5222716,32457.815175400003
+2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27633.098127,30948.896172200002,24616.8454913
+2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25205.8661536,29288.977362,21416.8034485
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,43960.3150449,47068.6030596,41131.5947078
+2,DALYs (Disability-Adjusted Life Years),4624,Greater London,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19457.317335900003,22755.2887161,16589.4371671
+2,DALYs (Disability-Adjusted Life Years),4623,East of England,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19166.4993761,22403.922699400002,16307.058534099999
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33896.373982599995,39715.9126244,28630.307765200003
+2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,67208.6650447,72652.5209229,62039.943150499996
+2,DALYs (Disability-Adjusted Life Years),35449,Ky?to,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16441.9176725,19537.823407300002,13604.8203577
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,42801.870225700004,46288.668249199996,39582.3641501
+2,DALYs (Disability-Adjusted Life Years),434,Scotland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,22249.047547000002,25684.0543929,19046.2815403
+2,DALYs (Disability-Adjusted Life Years),166,Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,79278.6208011,83444.58405219999,75473.90667540001
+2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25013.732741,28634.7451723,21935.0958382
+2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,50579.745245499995,58403.54665800001,43520.252773399996
+2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,62399.8729542,71399.2375564,54903.9888165
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32642.2256827,35699.1106206,29870.958854200002
+2,DALYs (Disability-Adjusted Life Years),35441,Fukui,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20338.382440100002,23276.8682068,17744.1178665
+2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32589.348913499998,37200.5600943,28144.7272757
+2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,57107.7620058,63196.7964155,50999.897223299995
+2,DALYs (Disability-Adjusted Life Years),35468,Miyazaki,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16724.2762057,19650.9757313,14115.9681338
+2,DALYs (Disability-Adjusted Life Years),35432,Tochigi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17205.3555308,20195.3778065,14515.298549399999
+2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33228.972185900006,38255.738581,28890.452038800002
+2,DALYs (Disability-Adjusted Life Years),35429,Yamagata,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16878.7042802,19728.1677625,14163.7124446
+2,DALYs (Disability-Adjusted Life Years),4651,Distrito Federal,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31321.1376538,34497.1052509,28365.842167799998
+2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,36095.1479133,40245.3110263,32217.8240299
+2,DALYs (Disability-Adjusted Life Years),153,Syria,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,43009.3103734,56334.08194140001,30074.7691077
+2,DALYs (Disability-Adjusted Life Years),206,The Gambia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,58101.71194580001,63553.5026862,52993.01040499999
+2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31557.286780799997,35198.9255505,28347.825131499998
+2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,64460.065472500006,72835.05761830001,55913.863811999996
+2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24464.1273947,27638.4788564,21647.257024
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29174.275841399998,33916.8396741,24754.126707
+2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,54944.2654868,60051.037871,50192.5622073
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28424.6783421,31646.695220600002,25411.7452536
+2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21118.5552908,24065.1486706,18571.1676553
+2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,36355.1709756,40883.935227,32331.797280199997
+2,DALYs (Disability-Adjusted Life Years),35446,Aichi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16837.1468553,19814.488076,14199.2778358
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,61211.6322497,69140.9749032,53465.438201100005
+2,DALYs (Disability-Adjusted Life Years),35425,Aomori,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,22581.3023184,25621.4591697,19948.4152195
+2,DALYs (Disability-Adjusted Life Years),35442,Yamanashi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21061.3040396,23949.6791265,18495.5834474
+2,DALYs (Disability-Adjusted Life Years),4671,Tlaxcala,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34389.959712200005,37830.835763300005,31465.939093099998
+2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21308.8826662,25047.8286668,18051.5999824
+2,DALYs (Disability-Adjusted Life Years),35446,Aichi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20946.3349932,23877.569458500002,18402.7501401
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,84117.254842,92702.9338153,73994.4988744
+2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28102.9478624,31337.753618999996,25214.9034089
+2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38140.380120099995,42355.700486199996,34116.4460428
+2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,41254.1883214,44669.453004999996,38216.8474308
+2,DALYs (Disability-Adjusted Life Years),205,Cote d'Ivoire,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,76909.4576075,82764.9805873,71168.63674490001
+2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,49328.3847506,53634.251594500005,45040.3627799
+2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37311.3647982,40850.031904400006,34167.910235999996
+2,DALYs (Disability-Adjusted Life Years),35426,Iwate,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21496.2999428,24395.9863296,18902.4346279
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24953.3202157,27936.4054952,22306.2263811
+2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,88086.4087248,97121.41773269999,78854.3113769
+2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20222.5494685,23737.5582998,16876.7600929
+2,DALYs (Disability-Adjusted Life Years),4662,Oaxaca,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26001.803451599997,29167.1994958,23012.3649885
+2,DALYs (Disability-Adjusted Life Years),35427,Miyagi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16353.4403315,19318.6395305,13503.3120224
+2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,51099.7040133,55652.401596300006,46845.6134402
+2,DALYs (Disability-Adjusted Life Years),35424,Hokkaid?,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21539.6828819,24460.4726607,18930.7047422
+2,DALYs (Disability-Adjusted Life Years),4,"Southeast Asia, East Asia, and Oceania",3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26689.6664159,29391.110774200002,24188.7090057
+2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24351.3031253,27533.4264135,21426.9046358
+2,DALYs (Disability-Adjusted Life Years),4621,East Midlands,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26231.235125000003,29545.0086056,23216.3814517
+2,DALYs (Disability-Adjusted Life Years),4658,Michoacán de Ocampo,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25650.000461599997,29157.524915799997,22495.0581853
+2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,56737.8666953,62806.6171539,51156.9678276
+2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20006.2385997,23232.7095372,17108.2860493
+2,DALYs (Disability-Adjusted Life Years),35431,Ibaraki,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17285.8640267,20167.9472107,14687.1370724
+2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53721.7837589,60887.095893,46165.7950486
+2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24535.2459452,27722.8976,21708.9930723
+2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17932.9264975,21521.9039158,14781.0548526
+2,DALYs (Disability-Adjusted Life Years),35445,Shizuoka,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20562.5959138,23492.7953304,18000.9993238
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33640.9732957,36924.3465303,30808.6535148
+2,DALYs (Disability-Adjusted Life Years),158,South Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,40821.2723633,44420.2595992,37679.708839
+2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28867.9015373,32169.0527734,26118.4164803
+2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,42314.7944738,46529.0569117,37993.5343383
+2,DALYs (Disability-Adjusted Life Years),35428,Akita,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17438.2075099,20402.2390251,14750.1443665
+2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,35950.4199261,40573.839321600004,31905.6053879
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,46887.7065719,50257.363584900006,43843.1339102
+2,DALYs (Disability-Adjusted Life Years),4653,Guanajuato,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33409.1801386,36672.4832417,30536.118639499997
+2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,50790.24978699999,54142.746959200005,47771.1871464
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37702.6676066,41275.3694886,34443.0405452
+2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,48877.9552454,56317.213129699994,41685.569657
+2,DALYs (Disability-Adjusted Life Years),137,North Africa and Middle East,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33330.215241599995,37130.9935731,29864.970638799998
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24185.3636374,26850.922011299997,21843.9967937
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,34237.0391035,37876.7688022,30656.1852812
+2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24388.864745,27897.4371127,21001.3903255
+2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24223.4630923,27363.352014699998,21474.6246426
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27736.739525800003,31261.1911346,24590.1725824
+2,DALYs (Disability-Adjusted Life Years),4649,Chiapas,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,39607.1655291,43029.7239892,36450.9902889
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,57336.4928479,61523.317912499995,53389.8014299
+2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33262.629065,36244.4992834,30391.641242
+2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,47985.7988518,57553.4562847,36893.0189475
+2,DALYs (Disability-Adjusted Life Years),433,Northern Ireland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27341.373727899998,30707.2771661,24313.548494500003
+2,DALYs (Disability-Adjusted Life Years),12,Laos,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,82328.5636596,90751.0889056,74160.1542449
+2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,45368.0418484,51941.5100071,39480.4074333
+2,DALYs (Disability-Adjusted Life Years),35443,Nagano,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,19880.1468714,22828.3120232,17295.7632026
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40120.2473905,43425.6750577,36879.9605207
+2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27760.7740065,31516.556373900003,24299.6780846
+2,DALYs (Disability-Adjusted Life Years),35452,Nara,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16545.7610218,19485.128616799997,13875.4574928
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28550.7697861,32995.0442185,24295.257935100002
+2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,95587.4794882,105319.96047500001,87689.2347078
+2,DALYs (Disability-Adjusted Life Years),35467,?ita,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16858.6157539,19842.420168200002,13905.2795291
+2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19050.6440278,22236.008644999998,16227.340428000001
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24139.346877,27367.450101000002,21212.0746196
+2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,81413.105435,86259.750574,76836.3138401
+2,DALYs (Disability-Adjusted Life Years),189,Tanzania,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,75306.2076448,81119.7900571,69983.4978227
+2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,81090.8909381,89106.7389118,73708.13665130001
+2,DALYs (Disability-Adjusted Life Years),35430,Fukushima,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17175.1315957,20170.975290500002,14314.6787583
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35111.2002573,39698.5785128,31001.980261399996
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27485.829781499997,31370.9574503,23958.0044375
+2,DALYs (Disability-Adjusted Life Years),4636,Wales,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20900.0398225,24248.1689452,17926.8419745
+2,DALYs (Disability-Adjusted Life Years),35450,?saka,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17278.9477122,20397.4593818,14520.263705
+2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,94328.0100445,100606.57280400001,88163.0528469
+2,DALYs (Disability-Adjusted Life Years),4625,South East England,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18986.6589699,22211.889402,16112.883983400001
+2,DALYs (Disability-Adjusted Life Years),35469,Kagoshima,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17450.489396599998,20742.6134627,14563.644027100001
+2,DALYs (Disability-Adjusted Life Years),4657,México,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24513.8149374,27814.2622063,21583.0706072
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,49808.763497399996,53787.715120299996,45758.4530033
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25095.272482999997,28369.049450900002,22038.7351463
+2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,45640.906127300004,49740.2283661,41800.6280416
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40857.9131022,45405.830984,36386.4850547
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29812.995778700002,33751.1634959,26377.269098900004
+2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24365.9249554,28010.946700599998,21088.4488917
+2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36415.0492434,39851.1106792,33238.5059223
+2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,41625.3226872,46111.8247296,37376.4870611
+2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19794.287511299997,22816.1543949,16933.0772117
+2,DALYs (Disability-Adjusted Life Years),4655,Hidalgo,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35618.728544,39042.6730679,32516.0307132
+2,DALYs (Disability-Adjusted Life Years),35447,Mie,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16923.1569512,19920.016616200002,14250.856715999998
+2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32577.587311099996,38394.133162,27536.799908499997
+2,DALYs (Disability-Adjusted Life Years),31,"Central Europe, Eastern Europe, and Central Asia",3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38669.9848031,42183.7641285,35454.4433225
+2,DALYs (Disability-Adjusted Life Years),4673,Yucatán,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31431.162809199996,34452.6315805,28566.683113699997
+2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,83018.4296023,90438.3026767,76370.8645542
+2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,91138.7824907,101229.861723,80918.6022278
+2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,47465.967567,54145.1421094,41230.7120889
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,40022.7460235,45250.659207799996,35689.1202387
+2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24010.0061268,26681.159630899998,21666.3296605
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,80656.9005204,92954.8884389,66323.76547310001
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27511.553008400002,32221.9529311,23497.6506742
+2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24595.7175947,27805.087964699997,21739.7232659
+2,DALYs (Disability-Adjusted Life Years),4624,Greater London,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26471.345256399996,29736.7344984,23488.564716599998
+2,DALYs (Disability-Adjusted Life Years),68,South Korea,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31975.87826,35757.8174326,28606.1017072
+2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,48397.033063,58498.737869100005,39840.2979619
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24195.6734511,27416.580428600002,21412.9953814
+2,DALYs (Disability-Adjusted Life Years),4645,Baja California Sur,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26176.076299700002,29884.237178400002,22885.3571221
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,51534.2812832,55342.5158105,48022.276268300004
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27366.7515515,31572.5929781,23948.4943625
+2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24050.0801474,28064.420600399997,20448.4882755
+2,DALYs (Disability-Adjusted Life Years),35454,Tottori,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17336.0855008,20686.9373227,14422.552811799998
+2,DALYs (Disability-Adjusted Life Years),35462,K?chi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21905.3411106,24859.7657664,19314.2393797
+2,DALYs (Disability-Adjusted Life Years),35463,Fukuoka,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21689.6389678,24599.4301417,19145.0794363
+2,DALYs (Disability-Adjusted Life Years),4656,Jalisco,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33539.6938545,37034.7213124,30270.4689317
+2,DALYs (Disability-Adjusted Life Years),35428,Akita,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21647.389552599998,24568.3100639,19108.9392358
+2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18757.2100025,21876.429895999998,15989.0522318
+2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,88943.6394188,99219.7427785,78893.885559
+2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27921.161297399998,31555.252164499998,24772.6365786
+2,DALYs (Disability-Adjusted Life Years),4622,West Midlands,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27126.955130000002,30481.265833100002,24198.6743398
+2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,93853.8216626,106058.837391,82438.0424497
+2,DALYs (Disability-Adjusted Life Years),35435,Chiba,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16860.4808128,19744.4127802,14202.9443128
+2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33568.092719600005,38522.3292894,29248.0322725
+2,DALYs (Disability-Adjusted Life Years),434,Scotland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29051.9851231,32487.2115826,26075.0544851
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,86957.4558678,91096.5782904,83311.2749639
+2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,64635.922120699994,71627.9043368,58428.939608999994
+2,DALYs (Disability-Adjusted Life Years),20,Vietnam,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40147.5667668,44230.9652517,36005.3456858
+2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30999.5936777,34032.3574568,28323.547266600002
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36429.9255157,40028.5694498,33113.8578002
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20725.4561825,23907.056427299998,17917.3083152
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36834.0145807,42230.9614996,31136.296572099996
+2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,45209.8175436,49248.144102000006,41538.2087663
+2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33318.8406669,37132.6429683,29838.8584268
+2,DALYs (Disability-Adjusted Life Years),4643,Aguascalientes,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24546.2269996,27740.517940499998,21552.099926900002
+2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,55755.74578980001,60664.5489901,51450.39471
+2,DALYs (Disability-Adjusted Life Years),4643,Aguascalientes,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32407.353576600002,35995.2942033,29319.645656499997
+2,DALYs (Disability-Adjusted Life Years),4674,Zacatecas,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32282.7765852,35516.6903727,29369.5517302
+2,DALYs (Disability-Adjusted Life Years),4623,East of England,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24533.8184603,27865.5408122,21645.1702544
+2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,85522.4596363,90321.66444760001,80636.5207964
+2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,99748.01546560001,112600.42055899999,87783.1288127
+2,DALYs (Disability-Adjusted Life Years),35444,Gifu,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20705.5735414,23613.5358891,18095.5303278
+2,DALYs (Disability-Adjusted Life Years),4654,Guerrero,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35883.5017473,39428.5391719,32716.335270800002
+2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19505.1663084,22728.8628144,16548.660930600003
+2,DALYs (Disability-Adjusted Life Years),4940,Sweden except Stockholm,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19081.3160112,22537.6920411,16009.4239886
+2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,69454.1192536,76783.4343603,62724.1859323
+2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34583.4703448,37638.2326484,31931.370360700002
+2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,63220.9139847,68348.3728645,58530.5255895
+2,DALYs (Disability-Adjusted Life Years),7,North Korea,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33834.8381709,37613.5764616,30319.794944400004
+2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35945.6492668,39427.989225799996,32772.1511736
+2,DALYs (Disability-Adjusted Life Years),35429,Yamagata,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20440.9269541,23358.9928005,17898.6276816
+2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24939.4191593,28173.621475,21999.3615213
+2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34677.7263761,38042.6426061,31661.2253783
+2,DALYs (Disability-Adjusted Life Years),4625,South East England,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24558.577746400002,27888.4817311,21610.0126063
+2,DALYs (Disability-Adjusted Life Years),35466,Kumamoto,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20812.3193535,23684.1348265,18174.2244022
+2,DALYs (Disability-Adjusted Life Years),4749,England,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19994.601527799998,23222.1274372,17149.0073768
+2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,41194.1637968,45160.0990263,37306.8904018
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38029.975818900006,41515.5402374,34642.654647999996
+2,DALYs (Disability-Adjusted Life Years),121,Bolivia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31613.726469499998,36283.9916309,27432.9776874
+2,DALYs (Disability-Adjusted Life Years),35433,Gunma,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17122.9391376,20154.793021600002,14425.6480729
+2,DALYs (Disability-Adjusted Life Years),35442,Yamanashi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16994.7629721,20311.4942833,14305.0317329
+2,DALYs (Disability-Adjusted Life Years),20,Vietnam,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27378.998550700002,30933.200342599997,24303.338641899998
+2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19554.2288396,22501.0105223,16813.3196724
+2,DALYs (Disability-Adjusted Life Years),4660,Nayarit,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25256.43552,28460.349026199998,22327.4862457
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25787.734698300002,28735.327685099997,23094.5565502
+2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24776.0506481,27929.819109199998,21979.983626999998
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26872.0591661,30148.9156275,24015.7621597
+2,DALYs (Disability-Adjusted Life Years),197,Swaziland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,69112.572861,81641.95071369999,57933.218349799994
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,25586.2390301,28795.1027524,22767.4155425
+2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30001.1294002,33618.9169721,26661.757018
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25297.269476899997,28425.6944038,22363.9384334
+2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34372.3824003,37857.725323,31385.3484373
+2,DALYs (Disability-Adjusted Life Years),35435,Chiba,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20703.0866263,23602.6811187,18172.379513699998
+2,DALYs (Disability-Adjusted Life Years),35439,Toyama,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16695.9540813,19620.9151388,14038.810437999999
+2,DALYs (Disability-Adjusted Life Years),4658,Michoacán de Ocampo,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34467.4162865,37747.9882655,31356.7984091
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,101032.556586,108967.392927,93274.1367659
+2,DALYs (Disability-Adjusted Life Years),4944,Stockholm,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17990.2515713,21292.065188,14777.8711242
+2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,62455.638136199996,69637.6175407,55807.895543
+2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,53234.975358100004,57627.7782677,49097.2277141
+2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,42153.734489099996,46717.0512611,37660.3850734
+2,DALYs (Disability-Adjusted Life Years),4636,Wales,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26476.1513324,29758.723309,23526.4691265
+2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,78369.231177,85712.285254,71099.0286417
+2,DALYs (Disability-Adjusted Life Years),35427,Miyagi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20818.9084113,23673.5009803,18258.2201322
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24653.1802349,27852.893267599997,21878.7155265
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31345.6067849,34441.4869107,28538.993931200002
+2,DALYs (Disability-Adjusted Life Years),4644,Baja California,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25801.1090811,29143.6216159,22710.7221437
+2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20245.9211885,23505.7966523,17267.7299142
+2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,68059.45798389999,72480.93721060001,63889.241926200004
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,35859.163667,39793.7600199,32077.4163791
+2,DALYs (Disability-Adjusted Life Years),4665,Quintana Roo,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25901.681127499996,29468.8189687,22743.442115
+2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,55071.9981688,59693.887253199995,50521.4192717
+2,DALYs (Disability-Adjusted Life Years),35467,?ita,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21200.1171632,24118.3454092,18562.7596063
+2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24591.7609198,27852.244243099998,21488.049338099998
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53501.537584900005,57328.4191578,50075.3382853
+2,DALYs (Disability-Adjusted Life Years),35438,Niigata,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16929.2073956,20129.5083577,14060.228576399999
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33311.4778767,37112.1183349,29845.998802500002
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,51265.02136110001,58112.2680978,45226.375098799996
+2,DALYs (Disability-Adjusted Life Years),155,Turkey,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23994.5540207,27811.153592600003,20484.8123413
+2,DALYs (Disability-Adjusted Life Years),4661,Nuevo León,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23946.3627465,27208.531589000002,20947.105934
+2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,50637.4771744,56062.2149562,45524.3838283
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,40821.2723633,44420.2595992,37679.708839
+2,DALYs (Disability-Adjusted Life Years),35453,Wakayama,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,22206.5055713,25211.489253300002,19571.886541
+2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23845.5291506,27313.865384300003,20625.4402839
+2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,25948.363715900003,29222.7285643,23159.9857208
+2,DALYs (Disability-Adjusted Life Years),197,Swaziland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,54623.1353608,60694.41676950001,48891.2010442
+2,DALYs (Disability-Adjusted Life Years),4644,Baja California,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36772.6349939,40250.8477348,33644.4132742
+2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,39369.5803543,43186.0283099,35909.2964263
+2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,45763.858288300005,51179.351580999995,40573.5249525
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26505.729361399997,29797.074381299997,23565.1021832
+2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34906.622809600005,38341.4827915,31679.160535799998
+2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32087.953292799997,37982.4886113,27471.742507000003
+2,DALYs (Disability-Adjusted Life Years),35431,Ibaraki,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21756.4346033,24677.6398377,19194.989033
+2,DALYs (Disability-Adjusted Life Years),35449,Ky?to,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20764.1978017,23641.4738329,18229.237955200002
+2,DALYs (Disability-Adjusted Life Years),25,Federated States of Micronesia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,46383.5962015,54843.938833600005,39137.0571279
+2,DALYs (Disability-Adjusted Life Years),4626,South West England,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24588.0424208,27862.210964500002,21643.7242236
+2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,44731.4140738,48573.6872021,40799.2178647
+2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18253.9566957,21419.8789445,15349.485462699999
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32465.5140899,38478.0853915,27279.057275200004
+2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26268.9146192,30403.422417300004,22816.291675200002
+2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,99613.77287799999,108190.071168,91766.9421149
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,35091.0339416,40287.4400109,30874.2263156
+2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,57808.331536000005,62769.012491,52767.4731218
+2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,59892.27237019999,66072.0892846,53722.7967193
+2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,46879.4692919,54975.893425099996,39383.7721138
+2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,101236.287301,106878.10201700001,95924.28846499999
+2,DALYs (Disability-Adjusted Life Years),4648,Colima,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26615.117719100002,30062.8320931,23420.0299279
+2,DALYs (Disability-Adjusted Life Years),4668,Sonora,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27016.3299199,30468.5382563,23704.7166521
+2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26981.4481032,30885.0546471,23410.4949587
+2,DALYs (Disability-Adjusted Life Years),4626,South West England,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19315.8328411,22540.2567015,16449.7992793
+2,DALYs (Disability-Adjusted Life Years),35447,Mie,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21120.0727543,24069.6073755,18547.2805392
+2,DALYs (Disability-Adjusted Life Years),62,Russia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,34980.8414315,43102.0572177,28197.5317732
+2,DALYs (Disability-Adjusted Life Years),35436,T?ky?,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16691.173754800002,19685.8173079,13927.590915800001
+2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35827.399241,39752.9360228,32260.884626199997
+2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40703.2310671,44088.9435053,37686.890252900004
+2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,43593.4087735,47119.1944923,40565.9231248
+2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27850.123757700003,31223.213201799997,24760.966433600002
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23489.446374299998,26832.0087839,20551.0141106
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21343.1951314,24637.7026695,18395.858346099998
+2,DALYs (Disability-Adjusted Life Years),35469,Kagoshima,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21473.4555569,24313.457499800003,18933.085342399998
+2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,64737.238132800005,70021.97116470001,59556.8628735
+2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,35925.7187759,39795.1746828,32374.692757
+2,DALYs (Disability-Adjusted Life Years),4647,Coahuila,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26845.0572216,30247.915583899998,23496.9627645
+2,DALYs (Disability-Adjusted Life Years),35453,Wakayama,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17563.3274767,20605.0255191,14772.059127699998
+2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,64533.6168546,69578.9121225,59282.6576171
+2,DALYs (Disability-Adjusted Life Years),35470,Okinawa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16900.6721196,19820.3376833,14256.484554300001
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29122.5173768,32878.9762452,25504.8499263
+2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,48551.435125100004,53016.222529299994,44604.4471712
+2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,23789.7067282,27074.5038808,20879.0287283
+2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37917.2412727,41457.9203165,34713.8145397
+2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,28007.2921327,31150.4329751,25271.6007084
+2,DALYs (Disability-Adjusted Life Years),35455,Shimane,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17017.7501551,20446.090104699997,14037.868142599998
+2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,43638.01155,47121.2427478,40371.813013599996
+2,DALYs (Disability-Adjusted Life Years),35457,Hiroshima,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16686.5442868,19632.0725861,13892.2543367
+2,DALYs (Disability-Adjusted Life Years),4657,México,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34575.8456856,37890.3658249,31764.460080200002
+2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29713.2954585,34185.0893649,25644.6321348
+2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,43999.376378299996,50475.2805205,38154.8737389
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35366.1682309,39653.2339681,31626.165308
+2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,68593.1685956,76204.4792247,60909.332331699996
+2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19828.0167811,23243.083349,16873.4475256
+2,DALYs (Disability-Adjusted Life Years),4669,Tabasco,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27402.983325,31019.492937900002,24103.2753198
+2,DALYs (Disability-Adjusted Life Years),35470,Okinawa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20866.9780485,23787.4783963,18298.5727678
+2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,35747.3896122,40195.3615197,31706.3583472
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,52226.2082093,55941.2834957,48743.479626399996
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37015.009746799995,40646.1202139,33950.247411200005
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33454.790948,37238.2141987,29760.650688200003
+2,DALYs (Disability-Adjusted Life Years),4671,Tlaxcala,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24291.1646996,27553.221811,21368.2716065
+2,DALYs (Disability-Adjusted Life Years),142,Iran,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28298.5429921,33255.8392752,23900.2013943
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,41474.3759568,45026.8853835,38360.0356873
+2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,61810.7345454,66476.3377602,57428.1474997
+2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,48651.5131673,55360.8101204,42856.8387421
+2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,50227.81935590001,55006.5687286,45961.0889426
+2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21914.685019700002,25573.7839891,18236.0565856
+2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32880.5684893,36103.3293597,30005.790952400002
+2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37728.8537917,41610.0768615,34206.479368
+2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,41362.3465312,44965.254440699995,38221.0458918
+2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,49454.092397600005,57052.2236358,42840.9312723
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17452.4955309,20548.484067700003,14774.355924
+2,DALYs (Disability-Adjusted Life Years),35430,Fukushima,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21431.45921,24423.977180100002,18892.4721466
+2,DALYs (Disability-Adjusted Life Years),4664,Querétaro,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25135.1357525,28365.096373300003,22100.9201646
+2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,63405.234939199996,69529.77109360001,57101.7410521
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20474.718213599997,23487.8322473,17749.0836908
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23716.1966332,27417.662775,20435.6755167
+2,DALYs (Disability-Adjusted Life Years),4659,Morelos,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32962.894709500004,36551.5547408,29813.1089835
+2,DALYs (Disability-Adjusted Life Years),153,Syria,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37288.6567904,41313.6529888,33469.1444287
+2,DALYs (Disability-Adjusted Life Years),4663,Puebla,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26517.363972000003,29885.7617382,23574.6350843
+2,DALYs (Disability-Adjusted Life Years),35448,Shiga,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20845.915085200002,23741.278149,18229.8329171
+2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20039.3977978,23201.3830309,17221.8524114
+2,DALYs (Disability-Adjusted Life Years),35450,?saka,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,22169.582401400003,25089.641678300002,19524.1934278
+2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,59973.1006711,66817.1916096,53234.5949432
+2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,36766.4956141,40302.7405768,33556.3026551
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,32118.7862178,35326.8816225,29228.847063899997
+2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,67034.4863317,75340.7729052,59442.6194875
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,46377.0386732,50304.6493868,42829.141207600005
+2,DALYs (Disability-Adjusted Life Years),61,Moldova,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31845.347762499998,35674.2212027,28015.178654299998
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53237.72401320001,57364.02535340001,49488.9060018
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,59146.430757,66309.7469476,52739.355571
+2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18030.8821186,21058.1335343,15247.395052599999
+2,DALYs (Disability-Adjusted Life Years),4666,San Luis Potosí,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24971.399562,28097.915301999998,21910.9085878
+2,DALYs (Disability-Adjusted Life Years),35458,Yamaguchi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16934.1041951,19903.6901593,14285.3715751
+2,DALYs (Disability-Adjusted Life Years),4661,Nuevo León,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29689.984412300004,32937.2484156,26855.9144749
+2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31904.8907755,36096.4742731,27891.0118307
+2,DALYs (Disability-Adjusted Life Years),4646,Campeche,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25582.3177858,29041.175019799997,22499.6773919
+2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53732.14119950001,59128.919435100004,48984.3028827
+2,DALYs (Disability-Adjusted Life Years),35440,Ishikawa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16414.378833900002,19335.019631299998,13755.9947264
+2,DALYs (Disability-Adjusted Life Years),35455,Shimane,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20713.6591567,23631.4793664,18146.774439999997
+2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,92568.059225,98820.71061149999,86869.8768541
+2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18446.7086373,21715.5599755,15415.2188862
+2,DALYs (Disability-Adjusted Life Years),35432,Tochigi,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,22005.9809113,24938.9319036,19419.2961054
+2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,58755.86145229999,65684.3443757,52255.722608300006
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21414.5466876,25518.9967399,17791.6348749
+2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,30605.918037500003,33959.9927846,27499.910995299997
+2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35433.0915753,38889.6889169,32210.497214099996
+2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27852.2112369,32321.662571300003,23627.5738598
+2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26026.7578082,30797.1214857,21936.2185154
+2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27176.5573741,30234.3691682,24273.3110811
+2,DALYs (Disability-Adjusted Life Years),133,Venezuela,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,31279.7848479,34513.3800054,28482.101232700003
+2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,56229.070588200004,64560.5167887,49647.5430043
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26441.114203999998,30689.4865557,22871.4656402
+2,DALYs (Disability-Adjusted Life Years),35460,Kagawa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17050.8210687,20101.5067076,14274.166154
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24493.5963214,27774.5937173,21598.4609916
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,33608.2520822,39410.0311023,28023.199905
+2,DALYs (Disability-Adjusted Life Years),47,Czech Republic,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21893.008808299997,25251.5306464,18864.1022938
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53049.1214126,61482.9823186,46197.7430012
+2,DALYs (Disability-Adjusted Life Years),35465,Nagasaki,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21645.3813423,24556.3565377,19068.0071069
+2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,94030.753077,99259.1494909,88754.3596398
+2,DALYs (Disability-Adjusted Life Years),4652,Durango,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25370.354708,28865.9333566,22140.673192
+2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,35783.1898528,39639.437932,32385.4825936
+2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16853.1228289,19848.746184,14261.001651800001
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40392.349773500006,43780.712888899994,37390.3819448
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32458.563660599997,37047.516292600005,28282.0648161
+2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,50542.591406600004,55823.2052947,45370.3149774
+2,DALYs (Disability-Adjusted Life Years),102,United States,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23975.164975,27322.8240374,21014.269917200003
+2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,36173.086142,41484.5182715,31452.440151299998
+2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,56787.0373073,61410.737260199996,52574.58294289999
+2,DALYs (Disability-Adjusted Life Years),137,North Africa and Middle East,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,46396.4825496,50324.4175935,42848.3433486
+2,DALYs (Disability-Adjusted Life Years),35441,Fukui,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16413.2293723,19380.6108371,13665.5980215
+2,DALYs (Disability-Adjusted Life Years),35452,Nara,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20956.127368999998,23880.1168913,18379.1412765
+2,DALYs (Disability-Adjusted Life Years),4660,Nayarit,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34473.7533738,37647.1721843,31526.634866300003
+2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,37761.841415300005,41799.460361000005,33442.5462116
+2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,26260.5173152,29381.503044200002,23415.2067995
+2,DALYs (Disability-Adjusted Life Years),35434,Saitama,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,20963.8198197,23843.1392642,18461.2072645
+2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,22387.9984169,26722.238029,18364.9685617
+2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23393.8755298,26764.858948300003,20256.8961849
+2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,41635.885325,46427.113464300004,37512.218256
+2,DALYs (Disability-Adjusted Life Years),35456,Okayama,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16808.738067000002,19796.1788585,14115.279474
+2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,56166.0484346,64244.088498,47989.0192848
+2,DALYs (Disability-Adjusted Life Years),103,Latin America and Caribbean,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27244.7179959,30361.8831725,24537.7106547
+2,DALYs (Disability-Adjusted Life Years),68,South Korea,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19372.3690113,23264.2991927,15826.470822700001
+2,DALYs (Disability-Adjusted Life Years),35468,Miyazaki,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21601.615071300002,24566.7426076,19039.7423176
+2,DALYs (Disability-Adjusted Life Years),35459,Tokushima,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17800.6729894,21082.4606132,14791.805207299998
+2,DALYs (Disability-Adjusted Life Years),35433,Gunma,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21099.928880400003,24003.184082599997,18532.371673600002
+2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19396.2503721,22491.1172462,16597.7516438
+2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,29747.07029,33045.2808763,26750.7387857
+2,DALYs (Disability-Adjusted Life Years),158,South Asia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,64247.9151244,67988.3897381,60728.380359099996
+2,DALYs (Disability-Adjusted Life Years),35434,Saitama,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17008.5293051,20041.8556171,14311.997616800001
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29922.2918437,32845.5114977,27317.2552934
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,53593.152598399996,58285.52806340001,49541.9253125
+2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32637.558450800003,36946.151705000004,28571.3667251
+2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28647.726003300002,32698.583485400002,25082.969994900002
+2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,47412.4218997,54985.9431949,40602.5498935
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,31423.054474399996,35280.9954029,27979.6024337
+2,DALYs (Disability-Adjusted Life Years),35461,Ehime,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17307.5447023,20534.4696091,14349.113711200001
+2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,32270.4412181,36683.7971932,28253.1507683
+2,DALYs (Disability-Adjusted Life Years),66,Brunei,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24267.7312086,27827.942733099997,20966.7948118
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,45788.461574299996,49259.8219206,42513.5210944
+2,DALYs (Disability-Adjusted Life Years),4650,Chihuahua,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,27590.2741725,31047.564837899998,24119.1923179
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,60629.7322647,66904.8616637,55326.2784685
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19737.797801099998,23112.2576243,16838.9336178
+2,DALYs (Disability-Adjusted Life Years),4664,Querétaro,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34013.8989409,37241.2107735,31092.0184637
+2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,33755.6665378,38058.4516833,29616.1476086
+2,DALYs (Disability-Adjusted Life Years),61,Moldova,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,42606.4086447,46458.7255117,38864.3490902
+2,DALYs (Disability-Adjusted Life Years),64,High-income,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,20585.2053965,23766.1262773,17781.575033999998
+2,DALYs (Disability-Adjusted Life Years),35437,Kanagawa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16534.774950299998,19456.2666169,13907.2057586
+2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,21947.359166899998,25714.043323,18677.232347200003
+2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,22988.2658234,26166.000147000002,20177.6250372
+2,DALYs (Disability-Adjusted Life Years),35451,Hy?go,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21592.316790599998,24474.1844737,19046.6392085
+2,DALYs (Disability-Adjusted Life Years),4662,Oaxaca,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40599.509764500006,43844.6448802,37572.505685000004
+2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,60392.8070748,67401.6515662,54009.938670400006
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34012.6429289,37988.8353,30268.451468699997
+2,DALYs (Disability-Adjusted Life Years),4670,Tamaulipas,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24815.792892999998,28153.3134864,21681.748837799998
+2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,34282.6029914,37672.9193943,31204.1287162
+2,DALYs (Disability-Adjusted Life Years),106,The Bahamas,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,29562.8599356,33475.8358245,25981.4978254
+2,DALYs (Disability-Adjusted Life Years),203,Cape Verde,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,30617.614029,34640.3320211,26937.4114572
+2,DALYs (Disability-Adjusted Life Years),155,Turkey,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40739.8234215,45117.9747466,36556.2782146
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,24720.2604109,28372.6977472,21356.0093372
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27749.375587000002,31030.7126459,24771.054686
+2,DALYs (Disability-Adjusted Life Years),35443,Nagano,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,16075.4589956,19266.9412159,13183.3544556
+2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,38581.686244000004,42151.9798529,35200.4093613
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,50521.077735800005,54619.1637773,46664.507930299995
+2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,40582.8258278,44508.4365721,37022.479025299996
+2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,53274.925108899995,59766.692869000006,46577.5819057
+2,DALYs (Disability-Adjusted Life Years),35454,Tottori,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,21171.9731145,24109.7947171,18506.9063848
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26133.6784363,29645.5051265,22727.3738049
+2,DALYs (Disability-Adjusted Life Years),4667,Sinaloa,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,23950.8679413,27282.715850700002,20729.0698715
+2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,24714.511001299998,27881.734924599998,21963.1584139
+2,DALYs (Disability-Adjusted Life Years),205,Cote d'Ivoire,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,61389.290461000004,67868.7874681,55459.8744078
+2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,68743.8911085,74113.0876,63677.0849276
+2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,19115.0246133,22484.535149400002,15941.993541999998
+2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,44138.328445600004,50736.451931,37736.6495169
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25939.4034823,30063.5165871,22381.8744091
+2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,77129.6000041,83415.525756,71142.42890299999
+2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,18820.5604298,21992.8284699,15867.8050875
+2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,51443.281351000005,55251.487835199994,48012.9004995
+2,DALYs (Disability-Adjusted Life Years),4651,Distrito Federal,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,25379.575532100003,28757.937603799997,22345.440609
+2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,62313.1379583,67687.3672427,57141.2654408
+2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,42945.8625525,47897.300843200006,38291.4983858
+2,DALYs (Disability-Adjusted Life Years),4649,Chiapas,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,28029.7419178,31659.2078226,24908.8814829
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,36840.224127299996,42267.167340500004,31706.0764318
+2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,27185.268984,30445.7799937,24170.304119700002
+2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,59445.8402501,68532.3274955,51150.2906751
+2,DALYs (Disability-Adjusted Life Years),4663,Puebla,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,39439.6661601,42873.9518262,36303.6226304
+2,DALYs (Disability-Adjusted Life Years),49,Macedonia,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,26881.0799822,30110.5717168,23988.585303
+2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,27,Age-standardized,294,All causes,3,Rate,1990,89661.0240257,94924.9318634,84650.0077797
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,22538.2435006,26294.203108,19108.2352451
+2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,61171.544810800006,67860.4718194,54834.2064555
+2,DALYs (Disability-Adjusted Life Years),35462,K?chi,3,Both,27,Age-standardized,294,All causes,3,Rate,2016,17254.3608886,20336.3284855,14591.913768699998
